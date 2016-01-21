@@ -19,7 +19,7 @@ $(function(){
 			data: data
 		}).then(function(r) {
 			console.log(r);
-			notify("Thank you for signing up to our mailing list.");
+			alert("Thank you for signing up to our mailing list.");
 		});
 		e.preventDefault();
 	});
