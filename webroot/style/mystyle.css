@@ -1,0 +1,39 @@
+
+body {
+	padding-top: 70px;
+	padding-bottom: 70px;		
+	background-image: url("../img/bg/sunflowers.jpg");
+	background-size: cover;
+}
+
+#page-contents {
+	min-height:500px;
+	font-size:120%;
+}
+.page-part {
+	background-color: rgba(255, 255, 255, 0.7);
+	border-radius:20px;
+	padding-bottom:20px;
+}
+img.mugshot {
+	width:140px;
+	float:left;
+	margin:10px;
+}
+h2 {
+	clear:both;
+}
+/*#page-part1 {
+	background-image:  url("http://www.sead.org.uk/wp-content/uploads/armed-with-peer-reviewed-sc.jpg");
+}
+#page-part2 {
+	background-image:  url("http://www.sead.org.uk/wp-content/uploads/climate-action_085.jpg");
+}*/
+
+.footer {	
+	margin-top: 25px;
+	border-top: 1px solid #333;
+	padding-top:25px;
+	background-color: rgba(255, 255, 255, 0.7);
+	width:100%;
+}

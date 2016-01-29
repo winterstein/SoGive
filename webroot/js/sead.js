@@ -23,4 +23,8 @@ $(function(){
 		});
 		e.preventDefault();
 	});
+	
+	function notify(msg) {
+		$('form#mailing-list').append("<div class='alert alert-success' role='alert'>"+msg+"</div>");
+	}
 });
