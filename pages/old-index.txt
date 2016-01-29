@@ -1,0 +1,8 @@
+      	<p>Track your charity donations or volunteer work. Measure the impact you have.</p>
+        <h1>SoGive: Make a Difference</h1>        
+        <p>See the difference you make in the world.</p>
+		<p>What do you give to charity? What effect does it have?</p>
+		<p>
+		With SoGive you can track your charity activity, fundraising (e.g. sponsored runs), and volunteer work. Working with the charities and their published accounts, we use impact models to measure the effect your donations have. Your profile presents a clear portrait of your good work. See what effect you have on the world, and take actions that matter. 
+		</p>
+		<p>SoGive is and will always be a free service.</p>
