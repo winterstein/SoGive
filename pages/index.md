@@ -3,7 +3,7 @@
 <p></p>
 <div class="jumbotron">
   <div class="container">
-  	<p>SoGive helps you keep track of how you’ve made the world a better place through your charitable giving.</p>
+  	<p>SoGive helps you keep track of how you've made the world a better place through your charitable giving.</p>
 	<div> <!-- class='center-block text-center' -->
 	<form id='mailing-list' action='https://sogive.soda.sh/forms-form.json' class='form-inline'>
 		<input type='hidden' name='mlist' value='company-news,product-news,marketing'>
@@ -34,6 +34,7 @@
     </div><!-- ./what we do -->
     <div class="col-md-4">
     	<h2>Join Us</h2>
+	<p>We need early users, evangelists, designers, testers, and other team members to help out.</p>
     	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span></p>
    </div>
     <div class="col-md-4">
