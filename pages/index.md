@@ -26,10 +26,7 @@
       SoGive shows your impact - for the donations you make via SoGive and the donations you make elsewhere.
       </p>
       <p>
-	SoGive's impact models are calculated independently of the charities themselves, so you can have confidence that they show you the true picture of what you achieved with your giving.
-	</p>
-	<p>
-	Impact indications available for all of the top 50 charities in the UK, and several others.
+	We believe that people are more inspired seeing their donations in terms like "You funded 30 malaria nets in Africa" than "You gave £100 to charity"
 	</p>
     </div><!-- ./what we do -->
     <div class="col-md-4">
