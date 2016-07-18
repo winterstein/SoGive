@@ -37,3 +37,11 @@ h2 {
 	background-color: rgba(255, 255, 255, 0.7);
 	width:100%;
 }
+
+
+/* DESIGN SKETCHES */
+
+.donation, .charity, .project, .impact, .recipient {
+	border: solid 1px gray;
+	border-radius: 5px;
+}
