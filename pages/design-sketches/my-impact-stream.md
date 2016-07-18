@@ -4,12 +4,16 @@ A stream of charity activity.
 
 Filters: type, location
 
-Summary: total impact in July 2016
+Dashboard: Total impact in July 2016
 
  - Donations: £100
  - 2.5 lives saved: 2.5 <u title='what does this fraction mean? On average, this is the proportional impact that your donation had'>?</u>
  - 1.5 Development Aid training sessions
  - 4 hours Campaigning
+
+Also: pie-chart of the type of project you fund, world-map of locations, time-series of your donations over the last year.
+
+For each donation, we show a range of info. For example:
 
 <div class='donation'>
 	<div class='charity'>(The Charity)
@@ -21,7 +25,7 @@ Summary: total impact in July 2016
 	
 	<div class='project'>(The Project)
 		<h3>Ethiopia: Growing Better</h3>
-		<p>Project type: Development Aid</p>
+		<p>Project type: Development Aid</p>		
 		<img src='https://www.oxfam.org.uk/~/media/Images/OGB/Donate/Donate%20to%20a%20project/315x130_ethiopia.ashx?h=130&la=en&w=315&hash=0D9F93B990913CDBD1BAD4484DEB469A34F602E1'>
 		<p class='desc'>Help women farmers to grow better quality crops, and improve their earnings so they can invest for the long term.</p>
 		<div class='story'>
@@ -39,8 +43,10 @@ Summary: total impact in July 2016
 	</div>
 
 	<div class='impact'>(The Impact)
-		<p>Donation: £10</p>
+		<p>Donation: £10 <small>[<a href=''>donate more</a>]</small></p>
 		<p>Outputs: 1.5 training sessions</p>
 		<p>Effect: improved productivity (unquantified)</p>
+		<p>Share this on: <a href=''>Twitter</a>, <a href=''>Facebook</a></p>
+		<p>??If you have shared -- info about likes, retweets, and click-throughs (ie how many of your network have visited the charity as a result)??</p>
 	</div>
 </div>
