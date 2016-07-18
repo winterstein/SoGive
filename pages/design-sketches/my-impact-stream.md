@@ -2,6 +2,8 @@
 
 A stream of charity activity.
 
+About You: photo + short blurb
+
 Filters: type, location
 
 Dashboard: Total impact in July 2016
