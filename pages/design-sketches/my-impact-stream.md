@@ -28,7 +28,7 @@ For each donation, we show a range of info. For example:
 	<div class='project'>(The Project)
 		<h3>Ethiopia: Growing Better</h3>
 		<p>Project type: Development Aid</p>
-		<p class='desc'>Help women farmers to grow better quality crops, and improve their earnings so they can invest for the long term. <a data-toggle="collapse" href="#story1" aria-expanded="false" title='more info'>...</a></p>
+		<p class='desc'>Help women farmers to grow better quality crops, and improve their earnings so they can invest for the long term. <a data-toggle="collapse" href="#story1" aria-expanded="false" title='more info'>more info...</a></p>
 		<img src='https://www.oxfam.org.uk/~/media/Images/OGB/Donate/Donate%20to%20a%20project/315x130_ethiopia.ashx?h=130&la=en&w=315&hash=0D9F93B990913CDBD1BAD4484DEB469A34F602E1'>
 		<div class='story collapse' id='story1'>
 			<p>Your donation goes towards helping determined small-scale farmers like Gannat Bariso in Gambelto Kebele, southeastern Ethiopia. She recently joined the Oxfam-backed local women's co-operative, which enabled her to get a loan to buy better quality potato seeds. She also attended an Oxfam training course to improve her farming skills.
