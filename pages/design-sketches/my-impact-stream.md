@@ -9,7 +9,7 @@ Filters: type, location
 Dashboard: Total impact in July 2016
 
  - Donations: £100
- - 2.5 lives saved: 2.5 <u title='what does this fraction mean? On average, this is the proportional impact that your donation had'>?</u>
+ - 2.5 lives saved <u title='what does this fraction mean? On average, this is the proportional impact that your donation had'>?</u>
  - 1.5 Development Aid training sessions
  - 4 hours Campaigning
 
