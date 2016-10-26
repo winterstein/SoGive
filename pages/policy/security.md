@@ -57,8 +57,8 @@ If a breach was found to have occured, then the company will take appropriate me
 ### Individual Subject Access Rights
 
 Individuals have the right to request a copy of the data we hold about them.
-Enquiries should be made to the Information Officer, who will coordinate authenticating the individual's online identity, and collating the data for them. 
-We charge a fee of £10 for data subject access.
+We try to make such data accessible online in a safe and convenient manner. 
+Individuals may also make enquiries to the Information Officer, who will coordinate authenticating the individual's online identity, and collating the data for them (we may charge a small fee for this).
 
 ## Technical Security Measures
 
@@ -105,16 +105,14 @@ Physical access to office computers is controlled by personal swipe card, a rece
 ### Access to Client Data
 
 Access to the SoGive system is via personal logins. Each user must have their own login, allowing for fine-grained security
-control and audit trails. Every single web page request is logged for a minimum of two weeks. A permanent audit trail is kept for user actions, such as posting a message. 
+control and audit trails. 
+Low-level security filters check all data requests for the correct authorisation.
+Every single web page request is logged for a minimum of two weeks. A longer term audit trail is kept for more important user actions. 
 
 As with any system, clients are responsible for keeping their login details secure. 
 If a login should become compromised, we will revoke that login which immediately stops all access.
 
-Data is organised into separate workspaces for each client, and no sensitive data is ever passed between workspaces. Low-level security filters check all data requests for the correct authorisation.
-
-Data within SoGive is segregated using the robust posix style security model
-with access rules governing who can access what data. Security
-controls are implemented at the data-access/ORM level, i.e. before
+Security controls are implemented at the data-access level, i.e. before
 application logic, providing data security even if there are bugs in
 the application logic. Following best practice guidelines, we store
 user passwords in encrypted form. A further layer of security is
@@ -123,9 +121,9 @@ provided at the application level by user roles and audit trails.
 
 #### Data Export
 
-Users can export data, in which case they take responsibility for access to it. Of course, a user can only export the data they are entitled to view and use. Clients can decide which of their team can export data via different roles. However, clients should be advised that if someone can login and read messages, they can always find a way to export them.
+Users can export and publish data, in which case they take responsibility for access to it. Of course, a user can only export or publish the data they are entitled to view and use.
 
-The SoGive Media Wall is a special case of export, where a user digitally signs a url, allowing people they share that url with to view that specific stream of messages -- but nothing else. Digitally signed urls allow viewing only (i.e. they cannot be used to send a response). Media Wall exports only happen when a user manually sets one up, and the signature identifies the user who sets it up. The digital signature can be changed, and old signatures would then be rejected. If a user has their permissions revoked or limited, their Media Walls will similarly have restricted access.
+This includes dynamic export to "your wall", where a user digitally signs a url, allowing people they share that url with to view that specific page -- but nothing else. Digitally signed urls allow viewing only (i.e. they cannot be used to send a response). Dynamic exports only happen when a user manually sets one up, and the signature identifies the user who sets it up. The digital signature can be changed, and old signatures would then be rejected. If a user has their permissions revoked or limited, their dynamic exports will similarly have restricted access.
 
 
 ### Storage of Client Data
@@ -136,6 +134,7 @@ Customer passwords are not directly stored. Instead, a one-way hash is stored (u
 
 Authorisation for third party systems (such as Twitter) is stored in an encrypted format. 
 
+
 ### Connections with Third Party Systems
 
 When connecting to a third party system, such as Twitter, SoGive uses the security provided by that system, typically the OAuth method combined with the secure HTTPS protocol. OAuth allows the client to control & revoke access by specific applications.
@@ -145,5 +144,4 @@ For organisations using social media, SoGive provides excellent security feature
 
 ## Conclusion
 
-Our security is built on a foundation of being prepared, being
-alert, and being responsive.
+Our security is built on a foundation of being prepared, being alert, and being responsive.
