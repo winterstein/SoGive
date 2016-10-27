@@ -32,7 +32,7 @@ Our office computers use screen-savers with automatic screen locking.
 
 Information Officer: Daniel Winterstein
 
-SoGive will register under the Data Protection Act with the UK Information Commisioner's Office.
+SoGive will register under the Data Protection Act with the UK Information Commissioner's Office.
 
 Personal data is stored securely at all times, and only accessed when necessary.
 Staff are trained to take care over access to computers, memory-sticks, etc. with personal data on them.
@@ -43,7 +43,7 @@ are securely wiped.
 
 ### Process for breaches involving the Data Protection Act
 
-Improper access to personal data is a displinary and potentially criminal offence.
+Improper access to personal data is a disciplinary and potentially criminal offence.
 Any suspected breaches, for example, unauthorised access to information by employees, must be reported to the Information Officer or to a Director.
 The breach will be investigated, and the results of the investigation documented in a report.
 
@@ -138,8 +138,6 @@ Authorisation for third party systems (such as Twitter) is stored in an encrypte
 ### Connections with Third Party Systems
 
 When connecting to a third party system, such as Twitter, SoGive uses the security provided by that system, typically the OAuth method combined with the secure HTTPS protocol. OAuth allows the client to control & revoke access by specific applications.
-
-For organisations using social media, SoGive provides excellent security features. No need to give out sensitive company passwords, users can have roles to manage exactly who can do what, plus audit trails are kept. This makes using social media through SoGive far more secure than using it directly. 
 
 
 ## Conclusion
