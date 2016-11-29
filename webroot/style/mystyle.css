@@ -2,7 +2,7 @@
 body {
 	padding-top: 70px;
 	padding-bottom: 70px;		
-	background-image: url("/img/bg/sunflowers.jpg");
+	background-image: url("../img/bg/sunflowers.jpg");
 	background-size: cover;
 }
 
@@ -59,4 +59,13 @@ h2 {
 }
 .impact {
 	width:18%;
+}
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
 }
