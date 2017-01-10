@@ -35,6 +35,9 @@
     	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span></p>
    </div>
     <div class="col-md-4">
+    	
+    	<section src='about.md'/>
+    	
       	<h2>About</h2>
       	<p>Find out about our organisation, mission, and our plans.</p>
       	<p><a class="btn btn-default" href="about.html" role="button">Read more &raquo;</a></p>
