@@ -31,7 +31,7 @@
     </div><!-- ./what we do -->
     <div class="col-md-4">
     	<h2>Join Us</h2>
-	<p>We need early users, evangelists, designers, testers, and other team members to help out.</p>
+	<p>We need early users, designers, testers, and other team members to help out.</p>
     	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span></p>
    </div>
     <div class="col-md-4">    	
