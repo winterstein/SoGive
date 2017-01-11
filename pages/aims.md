@@ -18,7 +18,7 @@
                       <label class=''>Get email updates</label>           
                       <input class='form-control' type='email' name='email' placeholder='Your Email'>
                   </div>
-                  <button class="btn btn-primary" type='submit'>Sign up</button>
+                  <button class="btn btn-primary send-form-button" type='submit'>Sign up</button>
               </form>
             </div>
         </div>
@@ -39,7 +39,7 @@
                       <label class=''>Get email updates</label>           
                       <input class='form-control' type='email' name='email' placeholder='Your Email'>
                   </div>
-                  <button class="btn btn-primary" type='submit'>Sign up</button>
+                  <button class="btn btn-primary send-form-button" type='submit'>Sign up</button>
               </form>
             </div>
         </div>
@@ -82,10 +82,8 @@
             </div>
         </div>
     </div>
-    <div class="white-bg col-md-12">
-    <div class="white-bg container hidden-xs hidden-sm">
+    <div class="white-bg container hidden-xs hidden-sm col-md-12">
         <nav class="navbar navbar-default" role="navigation">
-            <div class="white-bg container">
                 <div class="white-bg collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="index.html">Home</a></li>
@@ -96,9 +94,7 @@
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
                 </div>
-            </div>
         </nav>
-    </div>
     </div>
 <div class="col-md-12">
 		<center>
@@ -108,7 +104,7 @@
 <div class="col-md-12">
 	<div class="col-md-3">
 		<center>
-			<img src="img/icons/woman.png" style="width:40px" alt="Brining Life" title="Brining Life">		
+			<img src="img/icons/life.png" style="width:40px" alt="Brining Life" title="Brining Life">		
 			<h3>Bringing Life</h3>
 		</center>
 		<p style="text-align:justify; color:#777; font-size:14px;">
@@ -117,7 +113,7 @@
 	</div>
     <div class="col-md-3">
     	<center>
-    		<img src="img/icons/Share.png" style="width:40px" alt="Be Proactive" title="Be Proactive">
+    		<img src="img/icons/proactive.png" style="width:40px" alt="Be Proactive" title="Be Proactive">
     		<h3>Be Proactive</h3>
     	</center>
     	<p style="text-align:justify; color:#777; font-size:14px;">
@@ -126,7 +122,7 @@
     </div>
     <div class="col-md-3">
     	<center>
-    		<img src="img/icons/Good-Decision.png" style="width:40px" alt="Inspire Optimism" title="Inspire Optimism">
+    		<img src="img/icons/optimism.png" style="width:40px" alt="Inspire Optimism" title="Inspire Optimism">
     		<h3>Inspire Optimism</h3>
     	</center>
     	<p style="text-align:justify; color:#777; font-size:14px;">
@@ -135,7 +131,7 @@
     </div>
     <div class="col-md-3">
     	<center>
-    		<img src="img/icons/Share.png" style="width:40px" alt="Improve" title="Improve">
+    		<img src="img/icons/improve.png" style="width:40px" alt="Improve" title="Improve">
     		<h3>Improve</h3>
     	</center>
     	<p style="text-align:justify; color:#777; font-size:14px;">
