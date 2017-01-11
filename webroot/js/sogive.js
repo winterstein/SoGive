@@ -14,6 +14,14 @@ $(document).ready(function (){
 	});
 });
 
+// The 'Get Involved' button's functionality
+$(document).ready(function (){
+	$('#mobile-getinvolvedbutton').click(function() {
+		$('#mobile-getinvolved-div').removeClass('hidden')
+		$('#mobile-getinvolved-div').slideToggle();
+	});
+});
+
 // Parallax Scrolling on all Jumbotrons
 $(document).ready(function() {
 	var jumboHeight = $('.jumbotron').outerHeight();
