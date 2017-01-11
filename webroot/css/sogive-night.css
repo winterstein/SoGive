@@ -20,6 +20,24 @@
   height: auto;
 }
 
+.btn-getinvolved {
+  display: inline-block;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  font-weight:normal;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  background-image: none;
+  border: 1px solid;
+  color: #fff;
+  background-color: rgba(255,255,255,0.25);
+  border-color: #D1D3D4;
+}
+
 html {
   height: 100%;
 }

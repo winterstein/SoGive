@@ -20,7 +20,7 @@
   height: auto;
 }
 
-.btn-getnotified {
+.btn-getinvolved {
   display: inline-block;
   margin-top: 0.5em;
   margin-bottom: 0;
@@ -36,6 +36,16 @@
   color: #fff;
   background-color: rgba(255,255,255,0.25);
   border-color: #D1D3D4;
+}
+
+.divcontact-dropin {
+  background-color: #D1D3D4;
+  margin-top: -1px;
+  border-radius: 6px;
+  color: #000;
+  text-shadow: none;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 html {

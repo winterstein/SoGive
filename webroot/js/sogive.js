@@ -6,6 +6,14 @@ $(document).ready(function (){
 	});
 });
 
+// The 'Get email updates' button's functionality
+$(document).ready(function (){
+	$('#getinvolvedbutton').click(function() {
+		$('#getinvolved-div').removeClass('hidden')
+		$('#getinvolved-div').toggle( "unfold" );
+	});
+});
+
 // Parallax Scrolling on Jumbotron
 $(document).ready(function() {
 	var jumboHeight = $('.jumbotron').outerHeight();
@@ -18,3 +26,4 @@ $(document).ready(function() {
     	parallax();
 	});
 });
+
