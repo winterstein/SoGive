@@ -1,6 +1,4 @@
-<!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="container" id='page-part2'>
-  <!-- Example row of columns -->
   <div class="row">
     <div class="col-md-4">
       <h2>What We Do</h2>
