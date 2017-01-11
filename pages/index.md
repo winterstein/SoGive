@@ -1,34 +1,4 @@
-<script>
-    <!--
-    function getStylesheet() {
-      var currentTime = new Date().getHours();
-          if (0 <= currentTime&&currentTime < 5) {
-           document.write("<link rel='stylesheet' href='css/sogive-night.css' type='text/css'>");
-          }
-          if (5 <= currentTime&&currentTime < 11) {
-           document.write("<link rel='stylesheet' href='css/sogive-morning.css' type='text/css'>");
-          }
-          if (11 <= currentTime&&currentTime < 16) {
-           document.write("<link rel='stylesheet' href='css/sogive-day.css' type='text/css'>");
-          }
-          if (16 <= currentTime&&currentTime < 22) {
-           document.write("<link rel='stylesheet' href='css/sogive-evening.css' type='text/css'>");
-          }
-          if (22 <= currentTime&&currentTime <= 24) {
-           document.write("<link rel='stylesheet' href='css/sogive-night.css' type='text/css'>");
-        }
-    }
-
-    getStylesheet();
-    -->
-</script>
-<noscript><link href="css/sogive-day.css" rel="stylesheet"></noscript>
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
-<div class="bg">
+<div class="home-bg">
     </div>
     <div class="jumbotron">
         <div class="col-md-12 hidden-xs hidden-sm">
@@ -74,7 +44,7 @@
             </div>
         </div>
     </div>
-        <div class="white-bg container visible-xs visible-sm">
+    <div class="white-bg container visible-xs visible-sm">
         <div class="white-bg navbar navbar-fixed-top">
             <div class="white-bg btn-group pull-right">
                 <button type="button" class="btn btn-circle dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -130,7 +100,6 @@
         </nav>
     </div>
     </div>
-
 <div class="container" id='page-part2'>
   <div class="row">
     <div class="col-md-4">
@@ -154,3 +123,4 @@
     </div><!-- ./Values -->
   </div><!-- ./row -->	
 </div><!-- ./page-part2 -->
+</BODY>
