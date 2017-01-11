@@ -30,9 +30,9 @@
                 <p class="sogive-lead-line">
                     <i>Keep track of how you make the world a better place</i>
                 </p>
-                <button class="btn-lg btn-getinvolved" id="getinvolvedbutton" href="#" role="button">Get Involved</button>
+                <button class="btn-lg btn-getinvolved" id="mobile-getinvolvedbutton" href="#" role="button">Get Involved</button>
             </div>
-            <div class="col-md-offset-4 col-md-4 divcontact-dropin text-center" style="display:none" id="getinvolved-div">
+            <div class="col-md-offset-4 col-md-4 divcontact-dropin text-center" style="display:none" id="mobile-getinvolved-div">
               <form id='mailing-list' action='https://sogive.soda.sh/forms-form.json' class='form-inline'>
                   <input type='hidden' name='mlist' value='company-news,product-news,marketing'>
                   <div class='form-group'>
