@@ -24,6 +24,24 @@ html {
 	height: 100%;
 }
 
+.btn-getinvolved {
+  display: inline-block;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  font-weight:normal;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  background-image: none;
+  border: 1px solid;
+  color: #fff;
+  background-color: rgba(255,255,255,0.25);
+  border-color: #D1D3D4;
+}
+
 .sogive-gradient {		
 	background: rgb(255,250,67,0.7) 40%;
 	background: -moz-linear-gradient(top,  rgba(200,232,71,0.53) 0%, rgba(255,250,67,0.7) 40%, rgba(232,214,70,0.6) 100%);
