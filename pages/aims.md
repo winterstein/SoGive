@@ -11,7 +11,7 @@
 	</div>
     <div class="col-md-3">
     	<p>
-    	We want people to be open and proud about what they have achieved with their charitable giving, and be willing to share it freely with their friends, rather than hiding their philanthropic light under a bushel (but if you want to hide under a bushel, that’s cool too!)
+    	We want people to be open and proud about what they have achieved with their charitable giving, and be willing to share it freely with their friends, rather than hiding their philanthropic light under a bushel (but if you want to hide under a bushel, that’s cool too!:)
     	</p>
     </div>
     <div class="col-md-3">
