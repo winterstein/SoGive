@@ -1,5 +1,15 @@
-.bg {
+.home-bg {
   background: url('../img/day-sunflowers.jpg') no-repeat center center;
+  position: fixed;
+  width: 100%;
+  height: 40em; /*same height as jumbotron */
+  top:0;
+  left:0;
+  z-index: -1;
+}
+
+.aims-bg {
+  background: url('../img/leaves-on-line-2k.jpg') no-repeat center center;
   position: fixed;
   width: 100%;
   height: 40em; /*same height as jumbotron */
@@ -12,7 +22,7 @@
   height: 40em;
   color: white;
   text-shadow: #444 0 0px 10px;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.0);
 }
 
 .jumbotron p {
@@ -98,11 +108,7 @@ html {
   min-height:500px;
   font-size:120%;
 }
-.page-part {
-  background-color: rgba(255, 255, 255, 0.7);
-  border-radius:6px;
-  padding-bottom:20px;
-}
+
 img.mugshot {
   width:140px;
   float:left;
