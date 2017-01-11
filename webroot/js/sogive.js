@@ -6,11 +6,11 @@ $(document).ready(function (){
 	});
 });
 
-// The 'Get email updates' button's functionality
+// The 'Get Involved' button's functionality
 $(document).ready(function (){
 	$('#getinvolvedbutton').click(function() {
 		$('#getinvolved-div').removeClass('hidden')
-		$('#getinvolved-div').toggle( "unfold" );
+		$('#getinvolved-div').slideToggle();
 	});
 });
 
