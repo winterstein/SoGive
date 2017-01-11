@@ -196,3 +196,7 @@ h2 {
 .btn-getemailupdates:hover {
   background-color: rgba(255,255,255,0.5);
 }
+
+.nav>li>a {
+  font-size: 14px;
+}
