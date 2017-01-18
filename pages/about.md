@@ -1,6 +1,3 @@
-bg: image.png
-author: Daniel Winter
-
 # What is SoGive?
 
 SoGive is a tool that lets you see the impact you’ve made in the world through all your charitable giving. SoGive will have in-built formulae and analytics to let you see the change you've made in the world in terms like "I funded the distribution of 30 malaria nets in Africa" not just "I gave £100 to charity". We will aim to cover as many charities as possible.
