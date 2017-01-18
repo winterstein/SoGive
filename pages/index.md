@@ -110,6 +110,7 @@
 	     </p>
     </div><!-- ./what we do -->
     <div class="col-md-4">
+<<<<<<< HEAD
       <center>
     	<h3>Join Us</h3>
       </center>
@@ -132,6 +133,16 @@
         <a class="btn btn-default" href="about.html" role="button">Read more &raquo;</a>
         </p>
         </center>
+=======
+    	<h2>Join Us</h2>
+	<p>We need early users, designers, testers, and other team members to help out.</p>
+    	<p>Ready to take the next step? Get in touch with us - email <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span></p>
+   </div>
+    <div class="col-md-4">    	
+      	<h2>About SoGive</h2>
+      	<p>Find out about our organisation, mission, and our plans.</p>
+      	<p><a class="btn btn-default" href="about.html" role="button">Read more &raquo;</a></p>
+>>>>>>> ec6466a65882ba93bc115de2fc23335d9fc413fa
     </div><!-- ./Values -->
   </div><!-- ./row -->	
 </div><!-- ./page-part2 -->

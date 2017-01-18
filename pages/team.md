@@ -97,17 +97,23 @@
         </nav>
     </div>
 
+<<<<<<< HEAD
 <div class="col-md-12">
 	<center>
 	<H2>The SoGive Team</H2>
 	</center>
 </div>
+=======
+## Sanjay Joshi, Co-founder
+<img class='mugshot img-circle' src='img/sanjay.png'>
+>>>>>>> ec6466a65882ba93bc115de2fc23335d9fc413fa
 
 <!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
 <div class="white-bg col-xs-12" style="height:2em;">
 </div>
 <!-- End of cheap vertical space -->
 
+<<<<<<< HEAD
 <div class="col-md-12">
 	<div class="col-md-2">
 		<img class='mugshot img-circle' src='img/sanjay.png'>
@@ -145,3 +151,9 @@
 		</p>
 	</div>
 </div>
+=======
+## Daniel Winterstein, Co-founder
+<img class='mugshot img-circle' src='img/daniel.png'>
+
+Daniel is the director of software company Winterwell. He has developed successful products and worked as a consultant for companies such as the BBC, Harrods, and as a university researcher. He studied Mathematics at Cambridge University and has a Ph.D. in Artificial Intelligence (AI) from Edinburgh University. Daniel is also a semi-professional writer and playwright, and writes an occasional science column for The Scotsman newspaper. 
+>>>>>>> ec6466a65882ba93bc115de2fc23335d9fc413fa
