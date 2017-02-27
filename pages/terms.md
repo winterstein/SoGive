@@ -161,6 +161,8 @@ bgclass: terms-bg
 					While not necessarily imposing a charge on You, we may offer You the opportunity to make a donation to SoGive to support Our running costs. Where we do this, references elsewhere in this document to donation amounts going to recipient charities are net of this donation to SoGive
 				</li>
 			</ol>
+		</p>
+		<p style="text-align:justify; color:#777; font-size:14px;">
 			Where we charge for access to content and services, the following conditions apply:
 			<ol>
 				<li>
