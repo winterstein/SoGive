@@ -14,10 +14,10 @@ bgclass: faq-bg
 			<div class="col-xs-12" style="height:1em;">
 			</div>
 			<!-- End of cheap vertical space -->
-			<button class="accordion btn-lg black-font btn-accordion">Why should I use SoGive?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<!-- <button class="accordion btn-lg black-font btn-accordion">Why should I use SoGive?<span class="pull-right glyphicon glyphicon-plus"></span></button>
 			<div class="panel">
 				<p class="font-18 black-font">text that sits in place until better text is given</p>
-			</div>
+			</div> -->
 		</div>
 	</div>
 </div>

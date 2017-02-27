@@ -19,7 +19,7 @@ bgclass: about-bg
 
 <div class="col-md-12">
 		<center>
-		<img src="img/about-infographic.png" style="">
+		<img src="img/chart4.png" style="">
 		</center>
 </div>
 
