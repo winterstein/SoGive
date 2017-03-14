@@ -131,6 +131,18 @@ $(document).ready(function() {
 	});
 });
 
+$(document).ready(function() {
+	var jumboHeight = $('.jumbotron').outerHeight();
+	function parallax(){
+    	var scrolled = $(window).scrollTop();
+    	$('.volunteering-bg').css('height', (jumboHeight-scrolled) + 'px');
+	}
+
+	$(window).scroll(function(e){
+    	parallax();
+	});
+});
+
 
 // The Accordion Function
 $(document).ready(function () {
