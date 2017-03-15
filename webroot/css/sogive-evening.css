@@ -344,6 +344,18 @@ ol {
   color: #777;
 }
 
+.sogive-text-body {
+  text-align: justify;
+  color: #777;
+  font-size: 14px;
+}
+
+.sogive-text-body-centered {
+  text-align: center;
+  color: #777;
+  font-size: 14px;
+}
+
 .volunteering-header-tagline {
   text-align: center;
   font-size: 14px;
