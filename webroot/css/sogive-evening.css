@@ -1,101 +1,45 @@
+.bgblock {
+	width:100%;
+}
+
 .home-bg {
   background: url('../img/evening-sunflowers-2k.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .about-bg {
   background: url('../img/hands-in-air.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .aims-bg {
   background: url('../img/leaves-on-line-2k.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .team-bg {
   background: url('../img/leaf-in-sun-2k.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .getinvolved-bg {
   background: url('../img/hands-butterfly-2k.jpg') no-repeat center -130px;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .contact-bg {
   background: url('../img/plane-sunset-2k.jpg') no-repeat 0px center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .faq-bg {
   background: url('../img/evening-sunflowers-2k.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .privacy-bg {
   background: url('../img/evening-sunflowers-2k.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .terms-bg {
   background: url('../img/evening-sunflowers-2k.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .volunteering-bg {
   background: url('../img/girls_water_splash_lg.jpg') no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 40em; /*same height as jumbotron */
-  top:0;
-  left:0;
-  z-index: -1;
 }
 
 .jumbotron {
@@ -170,10 +114,6 @@
   padding-bottom: 1em;
 }
 
-html {
-  height: 100%;
-}
-
 .sogive-gradient {    
   background: rgb(255,250,67,0.7) 40%;
   background: -moz-linear-gradient(top,  rgba(200,232,71,0.53) 0%, rgba(255,250,67,0.7) 40%, rgba(232,214,70,0.6) 100%);
@@ -202,12 +142,6 @@ img.mugshot {
 h2 {
   clear:both;
 }
-/*#page-part1 {
-  background-image:  url("http://www.sead.org.uk/wp-content/uploads/armed-with-peer-reviewed-sc.jpg");
-}
-#page-part2 {
-  background-image:  url("http://www.sead.org.uk/wp-content/uploads/climate-action_085.jpg");
-}*/
 
 .footer { 
   margin-top: 25px;
