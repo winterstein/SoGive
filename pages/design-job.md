@@ -37,8 +37,7 @@ To start: As soon as possible.
 To apply, please send a CV and a short portfolio of your best work to: 
 <span name='jobs' domain='winterwell.com'>jobs at winterwell.com</span>
 
-The shortlist will be invited for an interview which includes a short but challenging technical
-reasoning test.
+The shortlist will be invited to submit a short piece of custom design , followed by an interview.
 
 For more about us, please see: http://sogive.org
 
