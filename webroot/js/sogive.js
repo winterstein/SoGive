@@ -47,17 +47,6 @@ $(function (){
 		$('#mobile-getinvolved-div').slideToggle();
 	});
 
-	// Parallax Scrolling on all Jumbotrons
-	var jumboHeight = $('.jumbotron').outerHeight();
-	function parallax(){
-    	var scrolled = $(window).scrollTop();
-    	$('.home-bg').css('height', (jumboHeight-scrolled) + 'px');
-	}
-
-	$(window).scroll(function(e){
-    	parallax();
-	});
-
 
 	// The Accordion Function
 	var acc = document.getElementsByClassName("accordion");
