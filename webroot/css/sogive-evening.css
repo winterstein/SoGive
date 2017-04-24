@@ -42,6 +42,10 @@
   background: url('../img/girls_water_splash_lg.jpg') no-repeat center center;
 }
 
+.careers-bg {
+  background: url('../img/plane-sunset-2k.jpg') no-repeat 0px center;
+}
+
 .jumbotron {
   height: 40em;
   color: white;
