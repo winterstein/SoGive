@@ -70,25 +70,10 @@ bgclass: home-bg
 </div>
 <!-- End of cheap vertical space -->
 <div class="col-md-12">
-  <center>
-    <H2>
-      SoGive is running a <a href="https://www.kickstarter.com/projects/1502061569/sogive-the-only-comprehensive-database-of-charity"><img border="0" alt="SoGive Kickstarter" src="img/kickstarter-logo-light.png" width="150px" height="auto"></a> campaign!
-    </H2>
-  </center>
-  <!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
-  <div class="white-bg col-xs-12" style="height:1em;">
+  <div class="hidden-xs hidden-sm col-md-offset-3 col-md-6 desktopvideoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vpuHMtZBa3E" frameborder="0" allowfullscreen></iframe>
   </div>
-  <!-- End of cheap vertical space -->
-  <div class="hidden-xs hidden-sm col-md-6 desktopvideoWrapper">
-    <iframe width="560" height="349" src="https://www.youtube.com/embed/-_LgG_sRwVo" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <div class="visible-xs visible-sm col-md-6 mobilevideoWrapper">
-    <iframe width="560" height="349" src="https://www.youtube.com/embed/-_LgG_sRwVo" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <div class="col-md-offset-1 col-md-4">
-    <p class="">
-      Thanks to generous match funding, if you donate £10 to the campaign, you will <b>get £10 back</b> to donate to a charity of your choice! Click <a href=https://www.kickstarter.com/projects/1502061569/sogive-the-only-comprehensive-database-of-charity>here</a> to find out more
-    </p>
-    </div>
+  <div class="visible-xs visible-sm col-md-offset-3 col-md-6 mobilevideoWrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/vpuHMtZBa3E" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
