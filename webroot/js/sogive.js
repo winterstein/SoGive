@@ -73,3 +73,17 @@ $(function (){
 	}
 
 });
+
+$(document).ready(function() {
+	var representativebutton = document.getElementById("representativebutton");
+	var representativediv = document.getElementById("#whatsarepresentativeproject");
+	var representativetext = document.getElementById("representativetext");
+	$("#whatsarepresentativeproject").click(function() {
+    	$('html, body').animate({
+        	scrollTop: $("#whatsarepresentativeproject").offset().top
+    	}, 500);
+    	$(representativebutton).addClass('active');
+    	$(representativediv).addClass('show');
+    	$(representativetext).addClass('bluehighlight')
+	});
+});
