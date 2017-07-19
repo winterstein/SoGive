@@ -4,7 +4,7 @@ bgclass: home-bg
 </div>
 
 <div class="col-md-12">
-  <div class="col-md-4">
+  <div class="col-md-offset-2 col-md-4">
     <center>
       <h3>What We Do</h3>
     </center>
@@ -13,17 +13,6 @@ bgclass: home-bg
     </p>
     <p class="sogive-text-body">
        SoGive shows your impact for the good that you do. We believe that people are more inspired seeing their donations in terms like "You funded 30 malaria nets in Africa" rather than "You gave £100 to charity".
-    </p>
-  </div>
-  <div class="col-md-4">
-    <center>
-      <h3>Join Us</h3>
-    </center>
-    <p class="sogive-text-body">
-       We need early users, designers, testers, and other team members to help out. Let’s measure and share this kindness in order that other people to see it, trust it, and believe it.
-    </p>
-    <p class="sogive-text-body">
-      Ready to take the next step? Get in touch with us - email <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span>
     </p>
   </div>
   <div class="col-md-4">

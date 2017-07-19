@@ -68,6 +68,11 @@ bgclass: faq-bg
 						</tr>
 					</tbody>
 				</table>
+				<div class="col-md-12 hidden-sm hidden-xs" style="height:3em;">
+				</div>
+				<p class="font-18 black-font">
+					At the time of writing, we have not yet built the feature of allowing donors the option to make a contribution to SoGive - this is because our priority is on enabling funds to go to the charities rather than to ourselves.
+				</p>
 			</div>
 			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
 			<div class="col-xs-12" style="height:1em;">
@@ -76,7 +81,7 @@ bgclass: faq-bg
 			<button class="accordion btn-lg black-font btn-accordion">How does SoGive work out how much impact my donation has made?<span class="pull-right glyphicon glyphicon-plus"></span></button>
 			<div class="panel">
 				<p class="font-18 black-font">
-					The steps are as follows: select a “representative project” (more on the representative project), allocate costs to that project, determine the relevant units of charity impact (is it number of malaria nets? Is it lives saved? Is it hours of cancer research?), divide out the costs between those units of charity impact.
+					The steps are as follows: select a “representative project” <a href="#whatsarepresentativeprojectlink" id="whatsarepresentativeproject">(more on the representative project)</a>, allocate costs to that project, determine the relevant units of charity impact (is it number of malaria nets? Is it people receiving training? Is it hours of cancer research?), divide out the costs between those units of charity impact.
 				</p>
 				<br>
 				<p class="font-18 black-font">
@@ -88,7 +93,34 @@ bgclass: faq-bg
 				</p>
 				<br>
 				<p class="font-18 black-font">
-					We assume that a charity’s fundraising costs will be earned back (and then some), so we don’t include those either.
+					Where a charity does trading activities (such as running a charity shop) and those activities are not part of the cost of delivering the charity’s activities, we exclude those costs as well.
+				</p>
+			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">How does SoGive think about charity impact?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					We at SoGive endorse the Theory of Change way of looking at impact.
+				</p>
+				<center>
+					<img src="img/theory.of.change.png" class="faq-image">
+				</center>
+				<br>
+				<p class="font-18 black-font">
+					<b>Cash:</b> Up until now, donors have tended to quantify the charitable giving in terms of the amount of money donated, e.g. “I gave £100 to charity!”
+				</p>
+				<br>
+				<p class="font-18 black-font">
+					<b>Impact: outputs:</b> The money will be used by the charity to do activities, and the immediate effects of those activities are called outputs. These include things like malaria nets, counselling sessions, or vaccinations. These things are generally not good in and of themselves, rather they good because of their knock-on effects, which we call outcomes.
+				</p>
+				<br>
+				<p class="font-18 black-font">
+					<b>Impact: outcomes:</b> Outcomes may be things like lives saved, or people lifted out of suicidal despair, or people not getting polio who otherwise would have. Quantifying outcomes is hard, and SoGive’s work gathering impact data shows that high-quality outcomes data is scarce.
+					<br>
+					Because of the scarcity of outcomes data, we focus on outputs data, although we hope for there to be more outcomes data in the future.
 				</p>
 			</div>
 			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
@@ -98,7 +130,7 @@ bgclass: faq-bg
 			<button class="accordion btn-lg black-font btn-accordion">Where do you get your data from?<span class="pull-right glyphicon glyphicon-plus"></span></button>
 			<div class="panel">
 				<p class="font-18 black-font">
-					We rely as far as possible on data in the public domain. This typically means data from the charity’s annual report and accounts, although there are sometimes also impact reports and other sources. Sometimes we will supplement those with requests for information from the charity themselves.
+					We rely as far as possible on data in the public domain. This typically means data from the charity’s annual report and accounts, although there are sometimes also impact reports and other sources. Sometimes we will supplement those with requests for information from the charity themselves. We are also investigating other sources of data.
 				</p>
 			</div>
 			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
@@ -117,18 +149,25 @@ bgclass: faq-bg
 			<!-- End of cheap vertical space -->
 			<button class="accordion btn-lg black-font btn-accordion">When calculating the costs, do you take into account admin expenses/overheads/the CEO’s salary?<span class="pull-right glyphicon glyphicon-plus"></span></button>
 			<div class="panel">
-				<p class="font-18 black-font">
-					Yes
-				</p>
+				<div class="col-md-12">
+					<p class="font-18 black-font">
+						Yes
+					</p>
+				</div>
+				<div class="col-md-12">
+					<p class="font-18 black-font">
+						We don’t think it would be right to let the charity “off the hook” for these sorts of expenses, so allocate costs using what people in the charity sector tend to call a “full cost recovery” model.
+					</p>
+				</div>
 			</div>
 			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
 			<div class="col-xs-12" style="height:1em;">
 			</div>
 			<!-- End of cheap vertical space -->
-			<button class="accordion btn-lg black-font btn-accordion">What’s a representative project?<span class="pull-right glyphicon glyphicon-plus"></span></button>
-			<div class="panel">
-				<p class="font-18 black-font">
-					When a charity does more than one thing, SoGive selects one of their projects to be what we call the “representative project”, which is the activity we use to represent that charity as a whole. In choosing the representative project, we try to make an estimate of where the next donated pound will go - i.e. what your donation is funding - although this is often a matter of judgement.
+			<button class="accordion btn-lg black-font btn-accordion" id="representativebutton">What’s a representative project?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel" id="#whatsarepresentativeproject">
+				<p class="font-18 black-font" id="representativetext">
+					When a charity does more than one thing, SoGive selects one of their projects to be what we call the “representative project”, which is the activity we use to represent that charity as a whole. In choosing the representative project, we try to make an estimate of where the next donated pound will go - i.e. what your donation is funding - although this is often a matter of judgement. More on this below “Why deal with representative projects?”
 				</p>
 			</div>
 			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
@@ -168,7 +207,7 @@ bgclass: faq-bg
 			<button class="accordion btn-lg black-font btn-accordion">Do you have to consider this on a project by project basis, or is there another way?<span class="pull-right glyphicon glyphicon-plus"></span></button>
 			<div class="panel">
 				<p class="font-18 black-font">
-					No, there’s another way. Another approach would be analyse this at the level of individual items being bought by the charity. This would make a difference to the way we calculate the cost of each thing. For example, let’s imagine that a charity includes one project to distribute malaria nets. Under SoGive’s methodology, we would allocate all the relevant overheads and admin costs (including the CEO’s salary). An alternative approach would be to ignore those overheads on the grounds that they are fixed costs and the marginal cost of another malaria net doesn’t need those costs. Further analysis of this approach shows it to be problematic, hence our choice of the project by project analysis.
+					Another approach would be analyse this at the level of individual items being bought by the charity. This would make a difference to the way we calculate the cost of each thing. For example, let’s imagine that a charity includes one project to distribute malaria nets. Under SoGive’s methodology, we would allocate all the relevant overheads and admin costs (including the CEO’s salary). An alternative approach would be to ignore those overheads on the grounds that they are fixed costs and the marginal cost of another malaria net doesn’t need those costs. Further analysis of this approach shows it to be problematic, hence our choice of the project by project analysis.
 				</p>
 			</div>
 		</div>

@@ -362,3 +362,38 @@ ol {
   width: 100%;
   height: 75%;
 }
+
+.big-diagram {
+  width: 90%;
+  height: auto;
+}
+
+.impact-image {
+  width: 100%;
+  height: auto;
+}
+
+.dashboard-image {
+  width: 100%;
+  height: auto;
+}
+
+hr {
+  border-width: 1px;
+  border-style: inset;
+  color: #777;
+}
+
+.inline-text-icon {
+  width: 3em;
+  height: auto;
+}
+
+.bluehighlight {
+  background-color: rgba(100, 138, 175, 0.51);
+}
+
+.faq-image {
+  width: 100%;
+  height: auto;
+}
