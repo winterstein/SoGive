@@ -52,13 +52,10 @@ bgclass: halloffame-bg
 							Tom and Kelly Prickett
 						</li>
 						<li>
-							Alex Gordon-Brown
+							Alex Gordon-Brown &amp; Denise Melchin
 						</li>
 						<li>
 							Matt Sharp
-						</li>
-						<li>
-							Denise Melchin
 						</li>
 					</ul>
 				</p>
@@ -167,7 +164,7 @@ bgclass: halloffame-bg
 							Holly Morgan
 						</li>
 						<li>
-							Goodwin Gibbons
+							Goodwin Gibbins
 						</li>
 					</ul>
 				</p>

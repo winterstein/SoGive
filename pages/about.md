@@ -35,7 +35,7 @@ bgclass: about-bg
 	</div>
 	<div class="col-md-offset-2 col-md-8">
 		<p style="text-align:justify; color:#777; font-size:14px;">
-		We won't charge you to use SoGive, but we will ask you to give an (optional) percentage of your donation to SoGive to help us keep going. SoGive is a not-for-profit social enterprise - both of the founders have pledged to give 100% of the profits to charity.
+		We won't charge you to use SoGive, but we will ask you to give an (optional) percentage of your donation to SoGive to help us keep going. SoGive is a not-for-profit social enterprise - all equity holders have agreed to give 100% of the profits to charity.
 		</p>
 	</div>
 </div>

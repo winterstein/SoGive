@@ -31,7 +31,7 @@ bgclass: careers-bg
 		</p>
 		<hr>
 		<p class="sogive-text-body">
-			If you are passionate about SoGive's work and think you may want to work with us, fee free to reach out to Sanjay: : <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span> to arrange a conversation.
+			If you are passionate about SoGive's work and think you may want to work with us, feel free to reach out to Sanjay: : <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span> to arrange a conversation.
 		</p>
 	</div>
 </div>

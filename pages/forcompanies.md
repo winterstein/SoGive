@@ -15,7 +15,7 @@ bgclass: forcompanies-bg
 			<H3>A Better Donor Experience</H3>
 		</center>
 		<p class="sogive-text-body">
-			SoGive not only informs donors how much money they have given; but also how much of a given charity has been impacted by their donations.
+			SoGive not only informs donors how much money they have given; but also how much of a charity's impact is attributable to a given donation.
 		</p>
 	</div>
 	<div class="col-md-4">
