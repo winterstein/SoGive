@@ -28,16 +28,34 @@ bgclass: halloffame-bg
 			</div>
 		</div>
 		<div class="col-md-12">
-			<p class="sogive-text-body">
-				<a href="https://www.linkedin.com/in/maxgrell/?ppe=1" target="_blank">Max Grell</a> and <a href="https://www.linkedin.com/in/rfaruq/" target="_blank">Rafie Faruq</a>, who created the exciting tech behind GivTree; which has now been shared with SoGive as part of the SoGive-GivTree merger.
-			</p>
+			<center>
+				<p class="sogive-text-body">
+					<a href="https://www.linkedin.com/in/maxgrell/?ppe=1" target="_blank">Max Grell</a> and <a href="https://www.linkedin.com/in/rfaruq/" target="_blank">Rafie Faruq</a>, who created the exciting tech behind GivTree; which has now been shared with SoGive as part of the SoGive-GivTree merger.
+				</p>
+			</center>
 		</div>
 	</div>
 	<div class="col-md-2">
 	</div>
 	<div class="col-md-5">
 		<center>
-			<H4>Kickstarter Backers</H4>
+			<H4>The Hunter Foundation</H4>
+		</center>
+		<center>
+			<a href="http://www.thehunterfoundation.co.uk/" target="_blank"><img src="img/hunter.foundation.logo.png" class="img-fit"></a>
+		</center>
+ 		<center>
+ 			<p class="sogive-text-body">
+				Without funding from <a href="http://www.thehunterfoundation.co.uk/" target="_blank">The Hunter Foundation</a>, the SoGive project would have never gotten off of the ground
+			</p>
+		</center>
+	</div>
+</div>
+<hr>
+<div class="col-md-12">
+	<div class="col-md-offset-2 col-md-8">
+		<center>
+			<H2>Kickstarter Backers</H2>
 		</center>
 		<center>
 			<p class="text-muted">
