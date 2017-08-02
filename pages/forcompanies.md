@@ -25,11 +25,6 @@ bgclass: forcompanies-bg
 		<p class="sogive-text-body">
 			A background tagging system makes it easy to find a given charity based on keywords associated with that charity.
 		</p>
-		<center>
-      		<p>
-        		<a class="btn btn-default" href="https://app.sogive.org" target="_blank" role="button">Try it &raquo;</a>
-      		</p>
-    	</center>
 	</div>
 </div>
 <div class="col-md-12">
