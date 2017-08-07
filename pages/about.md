@@ -10,7 +10,7 @@ bgclass: about-bg
 </div>
 <div class="col-md-12">
 	<center>
-		<img src="img/sogive-mindmap.png" alt="The SoGive Model" class="big-diagram">
+		<img src="img/about.sogive.png" alt="The SoGive Model" class="big-diagram">
 	</center>
 </div>
 <div class="col-md-12">
