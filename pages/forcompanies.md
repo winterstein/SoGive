@@ -8,37 +8,37 @@ bgclass: forcompanies-bg
 		<H2>SoGive: For Companies</H2>
 	</center>
 </div>
-
 <div class="col-md-12">
-	<div class="col-md-offset-2 col-md-4">
-		<center>
-			<H3>A Better Donor Experience</H3>
-		</center>
-		<p class="sogive-text-body">
-			SoGive not only informs donors how much money they have given; but also how much of a charity's impact is attributable to a given donation.
-		</p>
-	</div>
-	<div class="col-md-4">
-		<center>
-			<H3>Excellent Charity Search</H3>
-		</center>
-		<p class="sogive-text-body">
-			A background tagging system makes it easy to find a given charity based on keywords associated with that charity.
-		</p>
-	</div>
-</div>
-<div class="col-md-12">
-	<div class="col-md-offset-2 col-md-4">
+	<div class="col-md-6">
 		<center>
 			<a href="https://app.sogive.org/#charity?charityId=halo-trust"><img src="img/impact-phone.png" alt="See Your Impact" class="impact-image"></a>
 		</center>
 	</div>
-	<div class="col-md-4 hidden-sm hidden-xs" style="height:15em;">
-	</div>
-	<div class="col-md-4">
-		<p class="sogive-text-body">
-			SoGive can tell donors how much of a charity's impact is attributed to their donation
-		</p>
+	<div class="col-md-6">
+		<div class="col-md-12">
+			<center>
+				<H3>A Better Donor Experience</H3>
+			</center>
+			<p class="sogive-text-body">
+				SoGive not only informs donors how much money they have given; but also how much of a charity's impact is attributable to a given donation.
+			</p>
+		</div>
+		<div class="col-md-12">
+			<center>
+				<H3>Excellent Charity Search</H3>
+			</center>
+			<p class="sogive-text-body">
+				A background tagging system makes it easy to find a given charity based on keywords associated with that charity.
+			</p>
+		</div>
+		<div class="col-md-12">
+			<center>
+				<H3>Sharing on Social Media</H3>
+			</center>
+			<p class="sogive-text-body">
+				SoGive approach encourages sharing by allowing a user to express their giving in terms of units-of-return rather than currency.
+			</p>
+		</div>
 	</div>
 </div>
 <div class="col-md-12 hidden-xs hidden-sm" style="height:2em;">
@@ -60,15 +60,5 @@ bgclass: forcompanies-bg
 				SoGive Users get their own dashboard, which gives an overview of their charitable giving in terms of units of return. Users are encouraged to then share this information on their social media.
 			</p>
 		</center>
-	</div>
-</div>
-<div class="col-md-12">
-	<div class="col-md-offset-3 col-md-6">
-		<center>
-			<H3>Sharing on Social Media</H3>
-		</center>
-		<p class="sogive-text-body">
-			SoGive encourages greater philanthropy by leveraging donors. SoGive's approach encourages sharing by allowing a user to express their giving in terms of units-of-return rather than currency.
-		</p>
 	</div>
 </div>
