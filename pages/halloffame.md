@@ -65,15 +65,15 @@ bgclass: halloffame-bg
 		<div class="col-md-offset-3 col-md-6">
 			<center>
 				<p class="sogive-text-body">
-					<ul>
+					<ul class="fa-ul">
 						<li>
-							Tom and Kelly Prickett
+							<i class="fa fa-user-circle"></i> Tom and Kelly Prickett
 						</li>
 						<li>
-							Alex Gordon-Brown &amp; Denise Melchin
+							<i class="fa fa-user-circle"></i> Alex Gordon-Brown &amp; Denise Melchin
 						</li>
 						<li>
-							Matt Sharp
+							<i class="fa fa-user-circle"></i> Matt Sharp
 						</li>
 					</ul>
 				</p>
@@ -97,63 +97,34 @@ bgclass: halloffame-bg
 	<center>
 		<H2>Pioneering Supporters</H2>
 	</center>
-	<div class="col-md-offset-2 col-md-8">
+	<div class="col-md-offset-1 col-md-10">
 		<p class="sogive-text-body" style="text-align: center;">
 			Thank you to these wonderful individuals who made much-appreciated contributions to the SoGive kickstarter campaign. Their charitable giving has helped SoGive get off of the ground.
 		</p>
 		<div class="col-md-3">
 			<center>
 				<p class="sogive-text-body">
-					<ul>
+					<ul class="fa-ul">
 						<li>
-							Wendy Duinkerke
+							<i class="fa fa-user-o"></i> Wendy Duinkerke
 						</li>
 						<li>
-							Martin Hogg
+							<i class="fa fa-user-o"></i> Martin Hogg
 						</li>
 						<li>
-							Kit Harris
+							<i class="fa fa-user-o"></i> Kit Harris
 						</li>
 						<li>
-							Charles Appleby
+							<i class="fa fa-user-o"></i> Charles Appleby
 						</li>
 						<li>
-							Helen Hogg
+							<i class="fa fa-user-o"></i> Helen Hogg
 						</li>
 						<li>
-							Chris Smith
+							<i class="fa fa-user-o"></i> Chris Smith
 						</li>
 						<li>
-							Jamie Brunning
-						</li>
-					</ul>
-				</p>
-			</center>
-		</div>
-		<div class="col-md-3">
-			<center>
-				<p class="sogive-text-body">
-					<ul>
-						<li>
-							Anthony Bryant
-						</li>
-						<li>
-							Mark Watkins
-						</li>
-						<li>
-							David Madl
-						</li>
-						<li>
-							Jeremy Young
-						</li>
-						<li>
-							Matthew Neave
-						</li>
-						<li>
-							Markus Anderljung
-						</li>
-						<li>
-							James Bell
+							<i class="fa fa-user-o"></i> Jamie Brunning
 						</li>
 					</ul>
 				</p>
@@ -162,27 +133,27 @@ bgclass: halloffame-bg
 		<div class="col-md-3">
 			<center>
 				<p class="sogive-text-body">
-					<ul>
+					<ul class="fa-ul">
 						<li>
-							Joel Philips
+							<i class="fa fa-user-o"></i> Anthony Bryant
 						</li>
 						<li>
-							Michael Zarno
+							<i class="fa fa-user-o"></i> Mark Watkins
 						</li>
 						<li>
-							Adam Samuel
+							<i class="fa fa-user-o"></i> David Madl
 						</li>
 						<li>
-							Noah Nkonge
+							<i class="fa fa-user-o"></i> Jeremy Young
 						</li>
 						<li>
-							Steph Crampin
+							<i class="fa fa-user-o"></i> Matthew Neave
 						</li>
 						<li>
-							Holly Morgan
+							<i class="fa fa-user-o"></i> Markus Anderljung
 						</li>
 						<li>
-							Goodwin Gibbins
+							<i class="fa fa-user-o"></i> James Bell
 						</li>
 					</ul>
 				</p>
@@ -191,30 +162,59 @@ bgclass: halloffame-bg
 		<div class="col-md-3">
 			<center>
 				<p class="sogive-text-body">
-					<ul>
+					<ul class="fa-ul">
 						<li>
-							Rachael Gan
+							<i class="fa fa-user-o"></i> Joel Philips
 						</li>
 						<li>
-							Lina Hogg
+							<i class="fa fa-user-o"></i> Michael Zarno
 						</li>
 						<li>
-							Alan Penman
+							<i class="fa fa-user-o"></i> Adam Samuel
 						</li>
 						<li>
-							Lorenzo Dutto
+							<i class="fa fa-user-o"></i> Noah Nkonge
 						</li>
 						<li>
-							Julia Dickety
+							<i class="fa fa-user-o"></i> Steph Crampin
 						</li>
 						<li>
-							Lucy Silovsky
+							<i class="fa fa-user-o"></i> Holly Morgan
 						</li>
 						<li>
-							Tom Reece
+							<i class="fa fa-user-o"></i> Goodwin Gibbins
+						</li>
+					</ul>
+				</p>
+			</center>
+		</div>
+		<div class="col-md-3">
+			<center>
+				<p class="sogive-text-body">
+					<ul class="fa-ul">
+						<li>
+							<i class="fa fa-user-o"></i> Rachael Gan
 						</li>
 						<li>
-							Benjamin Jackson
+							<i class="fa fa-user-o"></i> Lina Hogg
+						</li>
+						<li>
+							<i class="fa fa-user-o"></i> Alan Penman
+						</li>
+						<li>
+							<i class="fa fa-user-o"></i> Lorenzo Dutto
+						</li>
+						<li>
+							<i class="fa fa-user-o"></i> Julia Dickety
+						</li>
+						<li>
+							<i class="fa fa-user-o"></i> Lucy Silovsky
+						</li>
+						<li>
+							<i class="fa fa-user-o"></i> Tom Reece
+						</li>
+						<li>
+							<i class="fa fa-user-o"></i>Benjamin Jackson
 						</li>
 					</ul>
 				</p>
