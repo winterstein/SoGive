@@ -5,15 +5,8 @@ bgclass: forfoundations-bg
 
 <div class="col-md-12">
 	<center>
-		<H2 style="text-decoration: underline;">SoGive: For Grantors / Foundations</H2>
+		<H2>SoGive: For Grantors / Foundations</H2>
 	</center>
-</div>
-<div class="col-md-12">
-	<div class="col-md-offset-2 col-md-8">
-		<center>
-			<img src="img/funding.ecosystem.infographic.png" class="img-fit">
-		</center>
-	</div>
 </div>
 <div class="col-md-12">
 	<div class="col-md-offset-2 col-md-8">
