@@ -9,7 +9,7 @@ bgclass: home-bg
       <h3>What We Do</h3>
     </center>
     <p class="sogive-text-body">
-      SoGive shows your impact - for the donations you make via SoGive and the donations you make elsewhere. SoGive shows your impact for the good that you do. It inspires optimism and gives donors positive feedback. SoGive also encourages the sharing of donations on social media.
+      At the heart of SoGive is a database of data about the impact made by charities. We can use this to show you for each donation you have made to any charity in our database, how much of that charity’s impact is attributable to you. The number of charities we have in our database is currently in the hundreds; we hope to get it into the thousands soon.
     </p>
   </div>
 </div>
@@ -61,13 +61,6 @@ bgclass: home-bg
     <p class="sogive-text-body">
       SoGive is a tool that lets you see the impact you’ve made in the world through all your charitable giving. SoGive will have in-built formulae and analytics to let you see the change you've made in the world in terms like; "I funded the distribution of 30 malaria nets in Africa" and not just; "I gave £100 to charity". Example:
     </p>
-  </div>
-</div>
-<div class="col-md-12">
-  <div class="col-md-offset-2 col-md-8">
-    <center>
-      <img src="img/donation.to.units.infographic.png" class="img-fit">
-    </center>
   </div>
 </div>
 <!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
