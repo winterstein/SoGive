@@ -55,7 +55,7 @@ bgclass: halloffame-bg
 <div class="col-md-12">
 	<div class="col-md-offset-2 col-md-8">
 		<center>
-			<H2>Kickstarter Backers</H2>
+			<H2>Kickstarter Patrons</H2>
 		</center>
 		<center>
 			<p class="text-muted">
