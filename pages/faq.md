@@ -210,6 +210,32 @@ bgclass: faq-bg
 					Another approach would be analyse this at the level of individual items being bought by the charity. This would make a difference to the way we calculate the cost of each thing. For example, let’s imagine that a charity includes one project to distribute malaria nets. Under SoGive’s methodology, we would allocate all the relevant overheads and admin costs (including the CEO’s salary). An alternative approach would be to ignore those overheads on the grounds that they are fixed costs and the marginal cost of another malaria net doesn’t need those costs. Further analysis of this approach shows it to be problematic, hence our choice of the project by project analysis.
 				</p>
 			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">Why does SoGive exclude trading costs and strip out income from beneficiaries?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					When calculating the total amount spent by the charity, SoGive excludes two things: trading costs and income from beneficiaries.
+					<br>
+					The reason for deducting income from beneficiaries from the total costs is to account for situations where the donor is subsidising something. Examples include homelessness charities provide accommodation for people in vulnerable circumstances, but charge those people, or arts charities that provide a venue for people to see an opera, or international development charities that believe that charging their beneficiaries to receive goods is the most sustainable way to distribute them. In that scenario the correct cost for SoGive to use is the *gap* between the amount that’s already covered by the beneficiaries and the total cost. This is why we deduct the income from beneficiaries.
+					<br>
+					Note that if you try to reconcile this figure to a set of accounts for a UK charity, you will often find an item called “income from charitable activities”, which is defined slightly differently, and typically won’t agree to this.
+					<br>
+					We also exclude the trading costs. This is defined slightly differently; it’s for a situation where the charity is selling something, but not to a beneficiary as part of its charitable activities. For example, if a charity had Christmas cards made and sold them for a profit, we would not consider the cost of manufacturing the Christmas cards to be part of the cost of doing the charitable activity. Similarly, the costs of running charity shops would be treated as trading costs.
+				</p>
+			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">I tried to reconcile the charity’s project-specific costs with the costs shown in the accounts, but they were different. Why?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					A charity’s activities may be split into different projects or areas of work. A charity will often show the costs attributable to those different projects in its accounts, however the sum of the project-level costs generally doesn’t include *all* the charity’s costs -- there are some overheads that are on top of this. We at SoGive believe that these admin costs or overheads should all be taken into account, so we calculate what those extra costs are based on the figures in the accounts and allocate those costs to the projects in proportion to the size of that project.
+				</p>
+			</div>
 		</div>
 	</div>
 </div>
