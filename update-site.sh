@@ -21,6 +21,12 @@ $SSHCOMMAND "jpegoptim $TARGETDIR/webroot/img/*.jpg"
 $SSHCOMMAND "jpegoptim $TARGETDIR/webroot/img/*.jpeg"
 echo -e ""
 
+echo -e "> Setting permissions on the image files"
+$SSHCOMMAND "chmod 766 $TARGETDIR/webroot/img/*.png"
+$SSHCOMMAND "chmod 766 $TARGETDIR/webroot/img/*.jpg"
+$SSHCOMMAND "chmod 766 $TARGETDIR/webroot/img/*.jpeg"
+echo -e ""
+
 echo -e "> Converting Markdown to HTML..."
 $SSHCOMMAND "cd /home/winterwell/jerbil/ && java -cp jerbil.jar:lib/* Jerbil $TARGETDIR"
 echo -e ""
