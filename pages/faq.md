@@ -218,11 +218,11 @@ bgclass: faq-bg
 			<div class="panel">
 				<p class="font-18 black-font">
 					When calculating the total amount spent by the charity, SoGive excludes two things: trading costs and income from beneficiaries.
-					<br>
+					<br><br>
 					The reason for deducting income from beneficiaries from the total costs is to account for situations where the donor is subsidising something. Examples include homelessness charities provide accommodation for people in vulnerable circumstances, but charge those people, or arts charities that provide a venue for people to see an opera, or international development charities that believe that charging their beneficiaries to receive goods is the most sustainable way to distribute them. In that scenario the correct cost for SoGive to use is the *gap* between the amount that’s already covered by the beneficiaries and the total cost. This is why we deduct the income from beneficiaries.
-					<br>
+					<br><br>
 					Note that if you try to reconcile this figure to a set of accounts for a UK charity, you will often find an item called “income from charitable activities”, which is defined slightly differently, and typically won’t agree to this.
-					<br>
+					<br><br>
 					We also exclude the trading costs. This is defined slightly differently; it’s for a situation where the charity is selling something, but not to a beneficiary as part of its charitable activities. For example, if a charity had Christmas cards made and sold them for a profit, we would not consider the cost of manufacturing the Christmas cards to be part of the cost of doing the charitable activity. Similarly, the costs of running charity shops would be treated as trading costs.
 				</p>
 			</div>
