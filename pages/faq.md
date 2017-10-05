@@ -184,6 +184,16 @@ bgclass: faq-bg
 			<div class="col-xs-12" style="height:1em;">
 			</div>
 			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">Are the donations restricted to the project shown?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					No. A charity may do several projects, and SoGive will typically only show one of them; the reason for this is that a charity may potentially have a large number of projects, and showing all of them would practically difficult and would turn into information overload for users of the site. It is not meant to indicate that the donation is restricted to that project
+				</div>
+			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
 			<button class="accordion btn-lg black-font btn-accordion">How do you estimate/judge where the next donated pound will go?<span class="pull-right glyphicon glyphicon-plus"></span></button>
 			<div class="panel">
 				<p class="font-18 black-font">
