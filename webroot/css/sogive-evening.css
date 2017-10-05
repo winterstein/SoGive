@@ -120,6 +120,26 @@
   text-decoration: none;
 }
 
+.btn-getinvolved:focus {
+  display: inline-block;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  font-weight:normal;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  background-image: none;
+  border: 0px solid;
+  color: #fff;
+  background-color: rgb(100, 138, 175);
+  border-color: #D1D3D4;
+  text-decoration: none;
+}
+
+
 .send-form-button {
   margin-top: 1em;
 }
