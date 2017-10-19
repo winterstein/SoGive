@@ -23,7 +23,7 @@ bgclass: forwealthmanagers-bg
 	</center>
 	<div class="col-md-6">
 		<center>
-			<H4>Cient Outcomes</H4>
+			<H4>Client Outcomes</H4>
 		</center>
 		<div class="col-md-offset-1 col-md-10">
 			<center>
@@ -32,7 +32,7 @@ bgclass: forwealthmanagers-bg
 						Client benefits from knowing that they have made an informed choice when donating to a charity
 					</li>
 					<li class="sogive-text-body-centered" style="padding-bottom:10px;"">
-						Not only can the client conveniently make donations, but they can also immediately see a return on investment, as well as see an overall view of their entire philanthropical donations
+						Not only can the client conveniently make donations, but they can also immediately see how much return they get on their (philanthropic) investment, as well as see an overall view of all their donations.
 					</li>
 					<li class="sogive-text-body-centered" style="padding-bottom:10px;">
 						Social media integration enables the client to share their enthusiasm for donations with friends and family
@@ -52,7 +52,7 @@ bgclass: forwealthmanagers-bg
 						Social media sharing by the client promotes your brand
 					</li>
 					<li class="sogive-text-body-centered" style="padding-bottom:10px;">
-						SoGive makes the process of gathering information about charitable/philanthropical giving more simplified; therefore making tax processing easier
+						SoGive makes the process of gathering information about charitable giving more simplified; therefore making tax processing easier
 					</li>
 					<li class="sogive-text-body-centered" style="padding-bottom:10px;">
 						The overall amount of tax paid by a client may be lowered <i>or</i> rebate(s) may be increased through having better information about charitable giving
@@ -149,7 +149,7 @@ bgclass: forwealthmanagers-bg
 			<!-- End of cheap vertical space -->
 			<center>
 				<p class="sogive-text-body">
-					SoGive's data and information enables the client to see a detailed breakdown of their charitable donations as well as the impact that their donations have made.  SoGive also allows a client to input their own non-SoGive-made contributions into their dashboard in order to have an all-in-one reporting experience.
+					SoGive's data and information enables the client to see a detailed breakdown of their charitable donations as well as the impact that their donations have made.  SoGive will allow a client to input their own non-SoGive-made contributions into their dashboard in order to have an all-in-one reporting experience.
 				</p>
 			</center>
 		</div>
