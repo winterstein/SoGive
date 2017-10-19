@@ -76,7 +76,9 @@ bgclass: forfoundations-bg
 <div class="col-md-12">
 	<div class="col-md-offset-2 col-md-8">
 		<p class="sogive-text-body">
-			Want To Help? <a href="assets/sogive-charity-data-example.csv" download>Download our example template<img src="img/csv.png" class="inline-text-icon"></a> in order to get started quickly.
+			<center>
+				Want To Help? <a href="assets/sogive-charity-data-example.csv" download>Download our example template<img src="img/csv.png" class="inline-text-icon"></a> in order to get started quickly.
+			</center>
 		</p>
 	</div>
 </div>

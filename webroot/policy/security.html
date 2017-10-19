@@ -26,7 +26,7 @@
 <!-- End of cheap vertical space -->
     
 <div class="simple-page page-part">
-	  <div class="halloffame-bg">
+	  <div class="$bgclass">
 		<div class="jumbotron">
 			<div class="col-md-12 hidden-xs hidden-sm">
 				<div class="col-md-offset-2 col-md-8 text-center">
@@ -36,17 +36,7 @@
 					<p class="sogive-lead-line">
 						<i>Keep track of how you make the world a better place</i>
 					</p>
-					<button class="btn-lg btn-getinvolved" id="getinvolvedbutton" href="#" role="button">Get Involved</button>
-				</div>
-				<div class="col-md-offset-4 col-md-4 divcontact-dropin text-center" style="display:none" id="getinvolved-div">
-				<form id='mailing-list' action='https://sogive.soda.sh/forms-form.json' class='form-inline'>
-					<input type='hidden' name='mlist' value='company-news,product-news,marketing'>
-					<div class='form-group'>
-						<label class=''>Get email updates</label>           
-						<input class='form-control' type='email' name='email' placeholder='Your Email'>
-					</div>
-					<button class="btn btn-primary send-form-button" type='submit'>Sign up</button>
-				</form>
+					<a href="https://app.sogive.org/" class="btn-lg btn-getinvolved" id="getstartedbutton" target="_blank">Get Started</a>
 				</div>
 			</div>
 			<div class="col-md-12 visible-xs visible-sm">
@@ -57,17 +47,7 @@
 					<p class="sogive-lead-line">
 						<i>Keep track of how you make the world a better place</i>
 					</p>
-					<button class="btn-lg btn-getinvolved" id="mobile-getinvolvedbutton" href="#" role="button">Get Involved</button>
-				</div>
-				<div class="col-md-offset-4 col-md-4 divcontact-dropin text-center" style="display:none" id="mobile-getinvolved-div">
-				<form id='mailing-list' action='https://sogive.soda.sh/forms-form.json' class='form-inline'>
-					<input type='hidden' name='mlist' value='company-news,product-news,marketing'>
-					<div class='form-group'>
-						<label class=''>Get email updates</label>           
-						<input class='form-control' type='email' name='email' placeholder='Your Email'>
-					</div>
-					<button class="btn btn-primary send-form-button" type='submit'>Sign up</button>
-				</form>
+					<a href="https://app.sogive.org/" class="btn-lg btn-getinvolved" id="getstartedbutton" target="_blank">Get Started</a>
 				</div>
 			</div>
 		</div> <!-- ./jumbotron -->
@@ -86,7 +66,7 @@
                         <a href="forcompanies.html">For Companies</a>
                     </li>
                     <li>
-                        <a href="forprivatebanks.html">For Private Banks</a>
+                        <a href="forwealthmanagers.html">For Wealth Managers</a>
                     </li>
                     <li>
                         <a href="forfoundations.html">For Grantors / Foundations</a>
@@ -128,7 +108,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="index.html">Home</a></li>
                         <li><a href="forcompanies.html">For Companies</a></li>
-                        <li><a href="forprivatebanks.html">For Private Banks</a></li>
+                        <li><a href="forwealthmanagers.html">For Wealth Managers</a></li>
                         <li><a href="forfoundations.html">For Grantors / Foundations</a></li>
                         <li class="dropdown">
                             <a  href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
@@ -137,9 +117,9 @@
                                 <li><a href="aims.html">Our Aims</a></li>
                                 <li><a href="careers.html">Careers</a></li>
                                 <li><a href="volunteering.html">Volunteer</a></li>
+                                <li><a href="halloffame.html">Hall of Fame</a></li>
                             </ul>
                         </li>
-                        <li><a href="halloffame.html">Hall of Fame</a></li>
                         <li><a href="contact.html">Contact</a></li>
                         <li><a href="faq.html">FAQs</a></li>
                     </ul>
@@ -165,10 +145,12 @@ during quality assurance testing.</p>
 <p>Our processes, including security measures, are documented in a
 company wiki. Staff are trained to check this when performing
 unfamiliar tasks.</p>
+</div><!-- ./security-and-process -->
 <div class='h2-section office-security'><h2><a href="#office-security" id="office-security">Office Security</a></h2>
 <p>Physical access to our offices and servers is strictly controlled.
 Our offices are not accessible from the street. The offices have security staff during office hours, and security alarms out of hours.  Both a keycard and a key are required to access the office. We have a policy of routinely locking doors when out of office.</p>
 <p>Our office computers use screen-savers with automatic screen locking.</p>
+</div><!-- ./office-security -->
 <div class='h2-section handling-personal-data'><h2><a href="#handling-personal-data" id="handling-personal-data">Handling Personal Data</a></h2>
 <p>Information Officer: Daniel Winterstein</p>
 <p>SoGive will register under the Data Protection Act with the UK Information Commissioner's Office.</p>
@@ -188,34 +170,43 @@ The breach will be investigated, and the results of the investigation documented
 <li>Limit any damage.</li>
 <li>Prevent further breaches.</li>
 </ul>
+</div><!-- ./process-for-breaches-involving-the-data-protection-act -->
 <div class='h3-section individual-subject-access-rights'><h3><a href="#individual-subject-access-rights" id="individual-subject-access-rights">Individual Subject Access Rights</a></h3>
 <p>Individuals have the right to request a copy of the data we hold about them.
 We try to make such data accessible online in a safe and convenient manner.
 Individuals may also make enquiries to the Information Officer, who will coordinate authenticating the individual's online identity, and collating the data for them (we may charge a small fee for this).</p>
+</div><!-- ./individual-subject-access-rights -->
+</div><!-- ./handling-personal-data -->
 <div class='h2-section technical-security-measures'><h2><a href="#technical-security-measures" id="technical-security-measures">Technical Security Measures</a></h2>
 <p>We follow best practices to keep our systems secure.</p>
 <div class='h3-section server-hosting'><h3><a href="#server-hosting" id="server-hosting">Server Hosting</a></h3>
 <p>Our servers are hosted in a dedicated and secure data centre.</p>
+</div><!-- ./server-hosting -->
 <div class='h3-section data-backup-and-encryption'><h3><a href="#data-backup-and-encryption" id="data-backup-and-encryption">Data backup and encryption</a></h3>
 <p>Passwords and the login tokens used to access e.g. Twitter accounts are stored in encrypted form.</p>
 <p>Data is backed up on a nightly basis and replicated off-site. All backups are encrypted with high-grade encryption.</p>
+</div><!-- ./data-backup-and-encryption -->
 <div class='h3-section access-to-servers'><h3><a href="#access-to-servers" id="access-to-servers">Access to Servers</a></h3>
 <p>Access to servers is strictly controlled. Our servers are hosted at reputable data-centres who comply with international hosting standards.</p>
 <p>Remote access is via secure multi-stage login. Low level server login is strictly controlled, requiring both an
 authorised ssh key and a password, both of which are only held by
 senior SoGive technical staff.</p>
+</div><!-- ./access-to-servers -->
 <div class='h3-section browser-server-communication'><h3><a href="#browserserver-communication" id="browserserver-communication">Browser/server communication</a></h3>
 <p>SoGive should be accessed via the secure https protocol, providing
 security for data in transit. When SoGive connects with 3rd party
 services such as Twitter, it does so over encrypted https.</p>
 <p>SoGive uses an SSL certificate, and provides secure HTTPS connections. https is the standard secure method
 for secure internet connections, providing high-grade encryption.</p>
+</div><!-- ./browser-server-communication -->
 <div class='h3-section software'><h3><a href="#software" id="software">Software</a></h3>
 <p>SoGive only uses trusted third party software from reputable providers. This software is regularly updated to include any security updates from the provider to ensure the software security is maintained.
 Services such as databases are secured by default, and are not directly accessible from outside our servers.</p>
 <p>Software is only installed after clearance by a senior technical officer. Non authorised software is not allowed on company computers.</p>
+</div><!-- ./software -->
 <div class='h3-section access-to-development-computers'><h3><a href="#access-to-development-computers" id="access-to-development-computers">Access to Development Computers</a></h3>
 <p>Physical access to office computers is controlled by personal swipe card, a receptionist, and secure logins.</p>
+</div><!-- ./access-to-development-computers -->
 <div class='h3-section access-to-client-data'><h3><a href="#access-to-client-data" id="access-to-client-data">Access to Client Data</a></h3>
 <p>Access to the SoGive system is via personal logins. Each user must have their own login, allowing for fine-grained security
 control and audit trails.
@@ -231,15 +222,22 @@ provided at the application level by user roles and audit trails.</p>
 <div class='h4-section data-export'><h4><a href="#data-export" id="data-export">Data Export</a></h4>
 <p>Users can export and publish data, in which case they take responsibility for access to it. Of course, a user can only export or publish the data they are entitled to view and use.</p>
 <p>This includes dynamic export to &quot;your wall&quot;, where a user digitally signs a url, allowing people they share that url with to view that specific page -- but nothing else. Digitally signed urls allow viewing only (i.e. they cannot be used to send a response). Dynamic exports only happen when a user manually sets one up, and the signature identifies the user who sets it up. The digital signature can be changed, and old signatures would then be rejected. If a user has their permissions revoked or limited, their dynamic exports will similarly have restricted access.</p>
+</div><!-- ./data-export -->
+</div><!-- ./access-to-client-data -->
 <div class='h3-section storage-of-client-data'><h3><a href="#storage-of-client-data" id="storage-of-client-data">Storage of Client Data</a></h3>
 <p>Personally identifying details such as name and email addresses are stored in the SoGive database, however no payment and credit/debit card information will be stored at all in the SoGive database.</p>
 <p>Customer passwords are not directly stored. Instead, a one-way hash is stored (using a secure hash function). This allows for the password to be checked, but it cannot be recovered.</p>
 <p>Authorisation for third party systems (such as Twitter) is stored in an encrypted format.</p>
+</div><!-- ./storage-of-client-data -->
 <div class='h3-section connections-with-third-party-systems'><h3><a href="#connections-with-third-party-systems" id="connections-with-third-party-systems">Connections with Third Party Systems</a></h3>
 <p>When connecting to a third party system, such as Twitter, SoGive uses the security provided by that system, typically the OAuth method combined with the secure HTTPS protocol. OAuth allows the client to control &amp; revoke access by specific applications.</p>
+</div><!-- ./connections-with-third-party-systems -->
+</div><!-- ./technical-security-measures -->
 <div class='h2-section conclusion'><h2><a href="#conclusion" id="conclusion">Conclusion</a></h2>
 <p>Our security is built on a foundation of being prepared, being alert, and being responsive.</p>
-</div><!-- ./sogive-security-policy --></div><!-- ./security-and-process --></div><!-- ./office-security --></div><!-- ./handling-personal-data --></div><!-- ./technical-security-measures --></div><!-- ./conclusion --></div><!-- ./process-for-breaches-involving-the-data-protection-act --></div><!-- ./individual-subject-access-rights --></div><!-- ./server-hosting --></div><!-- ./data-backup-and-encryption --></div><!-- ./access-to-servers --></div><!-- ./browser-server-communication --></div><!-- ./software --></div><!-- ./access-to-development-computers --></div><!-- ./access-to-client-data --></div><!-- ./storage-of-client-data --></div><!-- ./connections-with-third-party-systems --></div><!-- ./data-export -->
+</div><!-- ./conclusion -->
+</div><!-- ./sogive-security-policy -->
+
 		</div><!-- ./simple-page -->
 	</div>
 
@@ -274,7 +272,7 @@ provided at the application level by user roles and audit trails.</p>
                         Site design &amp; hosting: <a href='http://winterwell.com'>Winterwell</a>.
                         <a href='privacy-policy.html'>Privacy policy</a>
                         <a href='terms.html'>Terms of Service</a>                     
-                        <small>Last updated: 27 Oct 2016 19:01:46 GMT</small>
+                        <small>Last updated: 29 Nov 2016 15:48:14 GMT</small>
                     </p>
                   </center>
                 </div>
