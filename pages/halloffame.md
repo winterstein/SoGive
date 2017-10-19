@@ -79,7 +79,6 @@ bgclass: halloffame-bg
 				</p>
 			</center>
 		</div>
-
 	</div>
 </div>
 <div class="col-md-12 hidden-sm hidden-xs" style="height:6em;">

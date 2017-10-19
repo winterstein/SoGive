@@ -12,11 +12,15 @@ bgclass: careers-bg
 <div class="col-md-12">
 	<div class="col-md-offset-3 col-md-6">
 		<p class="text-muted">
-			We are currently not recruiting at this time
+			<center>
+				We are currently not recruiting at this time
+			</center>
 		</p>
 		<br>
 		<p class="sogive-text-body">
-			We anticipate that we might have needs in the following areas in the future:
+			<center>
+				We anticipate that we might have needs in the following areas in the future:
+			</center>
 			<ul>
 				<li>
 					Software Developers (Frontend &amp; Backend)
