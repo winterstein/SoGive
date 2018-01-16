@@ -1,4 +1,5 @@
 bgclass:forevents-bg
+headline: Great Event Management Software
 
 Running a UK sponsored event? SoGive provides free registration and ticketing, plus helps your participants to achieve their goals.
 
@@ -6,7 +7,6 @@ Running a UK sponsored event? SoGive provides free registration and ticketing, p
 - Event ticketing transitions seamlessly into the user having a profile and a fund-raising page.
 - Own the page: Set your event branding across all parts of the app.
 - 100% Free! Full premium product with no fees.
-
 
 <center>
 	<button class="btn btn-primary btn-lg CTA" data-toggle="modal" data-target="#CTAModal">Contact Us Today</button>
