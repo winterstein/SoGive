@@ -1,0 +1,15 @@
+
+.simple-page .jumbotron {
+	height: 10em;
+}
+.logo-sm-left {
+	height: 5em;
+	width: auto;
+	margin-top:-2em;	
+}
+p.sogive-lead-line {
+	font-size: 1.5em;
+}
+ul {
+	font-size: inherit;
+}
