@@ -1,15 +1,66 @@
 
-.simple-page .jumbotron {
-	height: 10em;
+.navbar {
+	border-bottom: 1px solid #666;
+}
+.simple-page .banner {
+	/* height: 10em; */
+	margin-top: 57px;
+	margin-bottom: 10px;
+	background-size: cover;	
+	border-bottom: 1px solid #666;	
+	padding-bottom: 2em;
 }
 .logo-sm-left {
 	height: 5em;
 	width: auto;
-	margin-top:-2em;	
 }
 p.sogive-lead-line {
 	font-size: 1.5em;
+	margin-top: 0.5em;
+	color:white;
+	text-shadow: 1px 1px #666;
+}
+.headline {
+	color:white;
+	font-size: 2em;
+	margin-top: 1em;
+	font-weight: bold;
+	text-shadow: 1px 1px #666;
 }
 ul {
 	font-size: inherit;
 }
+footer {
+	margin-top:20px;
+	background-color:#333;
+	border-top: #666 solid 1px;
+	color: white;
+}
+footer a {
+	color: white;
+}
+
+.img-aside img {
+	max-height: 50vh;
+}
+
+.forevents-bg {
+	background: url('/img/bg/kiltwalk-bg.jpg') no-repeat center center;
+ }
+ 
+ .forfoundations-bg {
+	background: url('/img/girls_water_splash_lg.jpg') no-repeat center center;
+ }
+ 
+ .forcompanies-bg {
+	background: url('/img/leaves-on-line-2k.jpg') no-repeat center center;
+ }
+ 
+ .forprivatebanks-bg {
+	background: url('/img/hands-in-air.jpg') no-repeat center center;
+ }
+ 
+ .forwealthmanagers-bg {
+	background: url('/img/hands-in-air.jpg') no-repeat center center;
+ }
+ 
