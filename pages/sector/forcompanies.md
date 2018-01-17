@@ -1,85 +1,42 @@
 bgclass: forcompanies-bg
+headline: Better employee engagement through charitable giving
 
-<div class="forcompanies-bg">
-</div>
+# SoGive for Enterprise
 
-<div class="col-md-12">
-	<center>
-		<H2>SoGive for Companies</H2>
-	</center>
+<div class='row'>
+<div class='col-7'>
+
+Working with SoGive, you can easily setup donation and Corporate Social Responsibility (CSR) schemes that employee's love.
+
+* Give employees a powerful reason to believe in the company: The good you do in the world.
+* Put the power in the hands of your employees by giving them the decision about where the donation goes.
+* By using SoGive's specialist impact database and insights, the software can support donors to make high-impact decisions
+* SoGive can show the donor how much of the charity’s impact is attributable to each donation, courtesy of our unique database.
+* Turn employees into advocates on social media. SoGive's approach encourages sharing.
+* Easily demonstrate value with impact-based reporting.
+* Benefit from our research into effective charities to achieve greater impact.
+
 </div>
-<div class="col-md-12">
-	<div class="col-md-6">
-		<center>
-			<a href="https://app.sogive.org/#charity?charityId=halo-trust"><img src="img/impact-phone.png" alt="See Your Impact" class="impact-image"></a>
-		</center>
+<div class='col-5 img-aside'>
+	<img src="/img/impact-phone-01.png" class="img-fluid">
+</div>
+</div>
+<div style='clear:both'></div>
+
+<div class='row mt-5'>
+	<div class='col-5 img-aside'>
+		<img src="/img/dashboard-01.png" class="img-fluid">
 	</div>
-	<div class="col-md-6">
-		<div class="col-md-12">
-			<center>
-				<H4 class="forcompanies-header">A Better Donor Experience</H4>
-			</center>
-			<p class="sogive-text-body">
-				SoGive not only informs donors how much money they have given; but also how much of a charity's impact is attributable to a given donation.
-			</p>
-		</div>
-		<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
-		<div class="white-bg col-xs-12 hidden-sm hidden-xs" style="height:6em;">
-		</div>
-		<!-- End of cheap vertical space -->
-		<div class="col-md-12">
-			<center>
-				<H4 class="forcompanies-header">Excellent Charity Search</H4>
-			</center>
-			<p class="sogive-text-body">
-				A background tagging system makes it easy to find a given charity based on keywords associated with that charity.
-			</p>
-		</div>
-		<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
-		<div class="white-bg col-xs-12 hidden-sm hidden-xs" style="height:6em;">
-		</div>
-		<!-- End of cheap vertical space -->
-		<div class="col-md-12">
-			<center>
-				<H4 class="forcompanies-header">Sharing on Social Media</H4>
-			</center>
-			<p class="sogive-text-body">
-				SoGive approach encourages sharing by allowing a user to express their giving in terms of units-of-return rather than currency.
-			</p>
-		</div>
-	</div>
+<div class='col-7'>
+
+We support a range of charity schemes:
+
+* Payroll giving: A tax efficient way for your employees to give.
+* Matched-funding: The company boosts an employee's donations, building loyalty.
+* Charity gifts: The company provides employees with funding to give to charity.
+
+Care about what your employee's care about. Do good. Have impact.
+
 </div>
-<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
-<div class="col-md-12 hidden-xs hidden-sm" style="height:2em;">
 </div>
-<!-- End of cheap vertical space -->
-<div class="col-md-12">
-	<div class="col-md-offset-2 col-md-8">
-		<p class="sogive-text-body">
-			Our data and information enable us to provide reports about the impact attributable to any donor’s donations We provide a dashboard which the user can access at any time We also integrate with other reporting systems so that you can enhance your existing reporting.
-		</p>
-	</div>
-</div>
-<hr>
-<div class="col-md-12">
-	<center>
-		<p class="text-muted">
-			Currently in Development
-			<br>
-			Redesign underway -- this design is subject to change
-		</p>
-	</center>
-	<div class="col-md-offset-1 col-md-10">
-		<center>
-			<img src="img/dashboard.png" alt="User Dashboard" class="dashboard-image">
-			<br>
-			<p class="sogive-text-body" style="text-align: center;">
-				Currently rates of sharing donations on social media are low. SoGive can encourage greater philanthropy by leveraging donors. Our approach encourages sharing by expressing it in impact rather than money  and creating a UX that makes sharing easy .
-			</p>
-			<br>
-			<p class="sogive-text-body" style="text-align: center;">
-				SoGive Users get their own dashboard, which gives an overview of their charitable giving in terms of units of return. Users are encouraged to then share this information on their social media.
-			</p>
-		</center>
-	</div>
-</div>
+<div style='clear:both'></div>
