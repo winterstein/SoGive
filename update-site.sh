@@ -28,6 +28,11 @@ $SSHCOMMAND "chmod 766 $TARGETDIR/webroot/img/*.jpeg"
 echo -e ""
 
 echo -e "> Converting Markdown to HTML..."
+$SSHCOMMAND 'git --git-dir=/home/winterwell/jerbil/.git/ --work-tree=/home/winterwell/jerbil gc --prune=now'
+$SSHCOMMAND 'git --git-dir=/home/winterwell/jerbil/.git/ --work-tree=/home/winterwell/jerbil pull origin master'
+$SSHCOMMAND 'git --git-dir=/home/winterwell/jerbil/.git/ --work-tree=/home/winterwell/jerbil reset --hard FETCH_HEAD'
+rsync -hp ~/winterwell/code/middleware/xstream/xstream.jar winterwell@$TARGET:/home/winterwell/jerbil/lib/
+rsync -hP ~/winterwell/code/middleware/xstream/xmlpull-1.1.3.1.jar winterwell@$TARGET:/home/winterwell/jerbil/lib/
 $SSHCOMMAND "cd /home/winterwell/jerbil/ && java -cp jerbil.jar:lib/* Jerbil $TARGETDIR"
 echo -e ""
 
