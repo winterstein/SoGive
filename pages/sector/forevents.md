@@ -6,7 +6,7 @@ Running a UK sponsored event? SoGive provides free registration and ticketing, p
 - Participants can register, form a team, and create a fund-raising page - all in under a minute, with our easy-to-use mobile-friendly website. 
 - Event ticketing transitions seamlessly into the user having a profile and a fund-raising page.
 - Own the page: Set your event branding across all parts of the app.
-- 100% Free! Full premium product with no fees.
+- 100% Free! Full premium product with no fees or cut from donations.
 
 <center>
 	<button class="btn btn-primary btn-lg CTA" data-toggle="modal" data-target="#CTAModal">Contact Us Today</button>
