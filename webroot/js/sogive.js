@@ -20,13 +20,33 @@ $(function (){
 			data: data
 		}).then(function(r) {
 			console.log(r);
-			notify("Thank you for signing up to our mailing list.");
+			notify("Thank you for signing up to our mailing list.", $f);
 		});
 		e.preventDefault();
 	});
+
+
+	$('form.CTA').submit(function(e){
+		var $f = $(this);
+		var data = {};
+		$("input,select,textarea", $f).each(function(){
+			data[$(this).attr('name')] = $(this).val();
+		});
+		console.log("data", data);
+		$.ajax({
+			url: $f.attr('action'),
+			data: data
+		}).then(function(r) {
+			console.log(r);
+			notify("Thank you - we will be in touch soon.", $f);
+		});
+		e.preventDefault();
+	});
+
 	
-	function notify(msg) {
-		$('form#mailing-list').append("<div class='alert alert-success' role='alert'>"+msg+"</div>");
+	function notify(msg, $f) {
+		if ( ! $f) $f = $('form#mailing-list');
+		$f.append("<div class='alert alert-success' role='alert'>"+msg+"</div>");
 	}
 
 	// The 'Get email updates' button's functionality
