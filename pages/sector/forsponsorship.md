@@ -25,5 +25,4 @@ Our mission is to support charity fund-raising, so we provide the best.
 Built-in charity sponsorship helps your participants to achieve their goals, building your event's momentum, and improving retention.
 SoGive is *100% free* - for you, for the participants, and for the charities (apart from credit-card fees, there's nothing we can do about those). Other sites take 5% or have hidden fees -- we just suggest donors leave a tip.
 We provide confidence that the money is going where it should, which builds trust.
-Clear dashboards, powered by SoGive's database of charity impact data -- the largest such database
- -- let fund-raisers see the impact their efforts can achieve.
+Clear dashboards let fund-raisers see the impact their efforts can achieve, powered by SoGive's database of charity impact data -- the largest such database.
