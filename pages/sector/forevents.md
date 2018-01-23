@@ -8,6 +8,8 @@ Running a UK sponsored event? SoGive provides free registration and ticketing, p
 - Own the page: Set your event branding across all parts of the app.
 - 100% Free! Full premium product with no fees or cut from donations.
 
+<img src='/img/screenshots/kiltwalk-fundraiser.jpg' class='img-thumbnail pull-right' style='max-width:50%;' title='Example fund-raising page' >
+
 <center>
 	<button class="btn btn-primary btn-lg CTA" data-toggle="modal" data-target="#CTAModal">Contact Us Today</button>
 </center>
