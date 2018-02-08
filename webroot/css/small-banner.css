@@ -9,6 +9,7 @@
 	background-size: cover;	
 	border-bottom: 1px solid #666;	
 	padding-bottom: 2em;
+	max-width: 100%;
 }
 .logo-sm-left {
 	height: 5em;
