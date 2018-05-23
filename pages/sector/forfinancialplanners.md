@@ -20,3 +20,4 @@ to share their enthusiasm and tell family and friends about their giving.
 Social media sharing promotes your brand. 
 These positive news posts include a link to your firm.
 
+<a href="charitable-giving-and-taxes.html">Notes about Charitable giving and taxes</a>
