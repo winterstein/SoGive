@@ -9,7 +9,7 @@ If you pay tax above the <a href="https://www.gov.uk/income-tax-rates/income-tax
 
 ## Inheritance Tax
 ### A case study
-1. Bob's has 3 children and an estate which has a net worth of £2m
+1. Bob has 3 children and an estate which has a net worth of £2m
 2. By Donating 10% of his estate to charity, Bob can reduce his IHT rate from 40% to 36% on the rest of his estate
 3. As a result; for a cost of only £13.4k per child, the total amount donated to charity is £167.5k
 #### Conclusion
