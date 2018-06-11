@@ -6,7 +6,7 @@ headline: Better employee engagement through charitable giving
 <div class='row'>
 <div class='col-7'>
 
-Working with SoGive, you can easily setup donation and Corporate Social Responsibility (CSR) schemes that employee's love.
+Working with SoGive, you can easily setup donation and Corporate Social Responsibility (CSR) schemes that employees love.
 
 * Give employees a powerful reason to believe in the company: The good you do in the world.
 * Put the power in the hands of your employees by giving them the decision about where the donation goes.
@@ -35,7 +35,7 @@ We support a range of charity schemes:
 * Matched-funding: The company boosts an employee's donations, building loyalty.
 * Charity gifts: The company provides employees with funding to give to charity.
 
-Care about what your employee's care about. Do good. Have impact.
+Care about what your employees care about. Do good. Have impact.
 
 </div>
 </div>
