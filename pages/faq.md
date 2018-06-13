@@ -15,8 +15,8 @@ bgclass: faq-bg
 			<!-- End of cheap vertical space -->
 			</div>
 			<button class="accordion btn-lg black-font btn-accordion">How much do you charge?<span class="pull-right glyphicon glyphicon-plus"></span></button>
-			<div class="panel">
-				<p class="font-18 black-font">SoGive doesn't levy a charge, although we may offer our users the opportunity to make an optional donation to us if they like what they see.</p>
+			<div class="panel" id="#HowMuchDoYouCharge">
+				<p class="font-18 black-font" id="HowMuchDoYouChargeText">SoGive doesn't levy a charge, although we may offer our users the opportunity to make an optional donation to us if they like what they see.</p>
 				<br>
 				<p class="text-muted">Here's an example:</p>
 				<br>
@@ -30,48 +30,91 @@ bgclass: faq-bg
 						</tr>
 					</thead>
 					<tbody>
-						<tr>
-							<td>Your donation</td>
-							<td>£100</td>
-							<td>£100</td>
-							<td>£100</td>
-						</tr>
-						<tr>
-							<td>Gift Aid</td>
-							<td>£25</td>
-							<td>£25</td>
-							<td>£25</td>
-						</tr>
-						<tr>
-							<td>Fee (description)</td>
-							<td bgcolor="#D9EAD3">No fee</td>
-							<td>5% of donation (incl Gift Aid)</td>
-							<td>2% of donation (excl Gift Aid)</td>
-						</tr>
-						<tr>
-							<td>Fee from giving platform</td>
-							<td bgcolor="#D9EAD3">£0.00</td>
-							<td>£6.25</td>
-							<td>£2.00</td>
-						</tr>
-						<tr>
-							<td>Card-processing fee</td>
-							<td>£1.60</td>
-							<td>£1.30</td>
-							<td>£1.45</td>
-						</tr>
-						<tr>
-							<td style="font-weight:bold">Total to charity</td>
-							<td style="font-weight:bold">£123.40</td>
-							<td style="font-weight:bold">£117.45</td>
-							<td style="font-weight:bold">£121.55</td>
-						</tr>
-					</tbody>
+                        <tr>
+                            <td>Your donation</td>
+                            <td>£100</td>
+                            <td>£100</td>
+                            <td>£100</td>
+                        </tr>
+                        <tr>
+                            <td>Gift Aid</td>
+                            <td>£25</td>
+                            <td>£25</td>
+                            <td>£25</td>
+                        </tr>
+                        <tr>
+                            <td>Fee (description)</td>
+                            <td bgcolor="#D9EAD3">No fee</td>
+                            <td>2% of donation (excl Gift Aid)</td>
+                            <td>5% of donation (incl Gift Aid)</td>
+                        </tr>
+                        <tr>
+                            <td>Fee from giving platform</td>
+                            <td bgcolor="#D9EAD3">£0.00</td>
+                            <td>£2.00</td>
+                            <td>£6.25</td>
+                        </tr>
+                        <tr>
+                            <td>Card-processing fee</td>
+                            <td>£1.60</td>
+                            <td>£1.45</td>
+                            <td>£1.30</td>
+                        </tr>
+                        <tr>
+                            <td style="font-weight:bold">Total to charity</td>
+                            <td style="font-weight:bold">£123.40</td>
+                            <td style="font-weight:bold">£121.55</td>
+                            <td style="font-weight:bold">£117.45</td>  
+                        </tr>
+                    </tbody>
 				</table>
 				<div class="col-md-12 hidden-sm hidden-xs" style="height:3em;">
 				</div>
 				<p class="font-18 black-font">
 					At the time of writing, we have not yet built the feature of allowing donors the option to make a contribution to SoGive - this is because our priority is on enabling funds to go to the charities rather than to ourselves.
+					<br>
+					SoGive does not charge charities for the service of receiving donations via SoGive. SoGive does not receive interest on funds donated before they get passed on to the charity. At the time of writing, it is not possible for a donor to opt to cover the payment processing charges; if you would find that of interest, please  <a href="mailto:sanjay@sogive.org?Subject=I%20want%20to%20cover%20payment%20processing%20fees">email
+					us</a>.
+				</p>
+			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">What if I have a complaint?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					Consult our <a href='complaints.html'>complaints policy</a>
+				</p>
+			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">How do I get a refund?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					Please contact the charity directly and explain the reason for requesting a refund. Please also include the date when the donation was made on the SoGive application, and if that date was within a month of the date of your message, also explain that the payment may or may not have passed from SoGive to the charity yet.
+				</p>
+			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">Can SoGive facilitate donations to private individuals?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					No. SoGive is for donations to organisations -- i.e. legal entities. Usually these will be registered charities, although we may also facilitate donations to social enterprises as well.
+				</p>
+			</div>
+			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
+			<div class="col-xs-12" style="height:1em;">
+			</div>
+			<!-- End of cheap vertical space -->
+			<button class="accordion btn-lg black-font btn-accordion">Is there a minimum/maximum amount I can donate?<span class="pull-right glyphicon glyphicon-plus"></span></button>
+			<div class="panel">
+				<p class="font-18 black-font">
+					The minimum is £1. There is no maximum. There is also no maximum on any fundraising page. If a fundraising page continues to attract donations above and beyond the target amount, the donations will still be passed on to the charity/recipient organisation.
 				</p>
 			</div>
 			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->

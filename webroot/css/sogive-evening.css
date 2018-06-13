@@ -431,3 +431,7 @@ hr {
 .forcompanies-header {
   color: #25264F;
 }
+
+.showafterclick {
+  display: none;
+}

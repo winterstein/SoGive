@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="css/sogive-evening.css" type="text/css">
 
     <link href="css/font-awesome.min.css" rel="stylesheet">
-<meta name='generator' content='Jerbil v0.3.1' />
+<meta name='generator' content='Jerbil v0.4.0' />
 </head>
 <body>
     
@@ -27,7 +27,7 @@
 <!-- End of cheap vertical space -->
     
 <div class="simple-page page-part">
-	  <div class="about-bg">
+	  <div class="$bgclass">
 		<div class="jumbotron">
 			<div class="col-md-12 hidden-xs hidden-sm">
 				<div class="col-md-offset-2 col-md-8 text-center">
@@ -213,12 +213,86 @@
                         Business address: SoGive, 127 Rose St S Ln, Edinburgh EH2 4BB
                         <br>
                         Site design &amp; hosting: <a href='http://winterwell.com'>Winterwell</a>.
+                        <br>
                         <a href='privacy-policy.html'>Privacy policy</a>
-								<a href='terms.html'>Terms of Service</a>                     
-								<div><small>
-									Images (CC) various authors, some icons (CC) Freepik from flaticon.com. 
-								</small></div>
-                        <small>Last updated: 18 Jan 2018 16:24:11 GMT</small>
+                        <br>
+                        <a href='terms.html'>Terms of Service</a>
+                        <br>
+                        <a href='complaints.html'>Complaints</a>
+                        <br>
+                        <button class="btn" id="feesandchargesbtn" onclick="$('#showafterclick').css({'display': 'block'});">Fees and Charges</button>
+                        <div class="showafterclick col-md-6 col-md-offset-3" id="showafterclick">
+                            <p class="font-18 black-font" id="HowMuchDoYouChargeText">SoGive doesn't levy a charge, although we may offer our users the opportunity to make an optional donation to us if they like what they see.</p>
+                            <br>
+                            <p class="text-muted">Here's an example:</p>
+                            <br>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th></th>
+                                        <th>SoGive</th>
+                                        <th>Virgin Money Giving</th>
+                                        <th>JustGiving</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Your donation</td>
+                                        <td>£100</td>
+                                        <td>£100</td>
+                                        <td>£100</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Gift Aid</td>
+                                        <td>£25</td>
+                                        <td>£25</td>
+                                        <td>£25</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fee (description)</td>
+                                        <td bgcolor="#D9EAD3">No fee</td>
+                                        <td>2% of donation (excl Gift Aid)</td>
+                                        <td>5% of donation (incl Gift Aid)</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Fee from giving platform</td>
+                                        <td bgcolor="#D9EAD3">£0.00</td>
+                                        <td>£2.00</td>
+                                        <td>£6.25</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Card-processing fee</td>
+                                        <td>£1.60</td>
+                                        <td>£1.45</td>
+                                        <td>£1.30</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="font-weight:bold">Total to charity</td>
+                                        <td style="font-weight:bold">£123.40</td>
+                                        <td style="font-weight:bold">£121.55</td>
+                                        <td style="font-weight:bold">£117.45</td>  
+                                    </tr>
+                                </tbody>
+                            </table>
+                            <div class="col-md-12 hidden-sm hidden-xs" style="height:3em;">
+                            </div>
+                            <p class="font-18 black-font">
+                                At the time of writing, we have not yet built the feature of allowing donors the option to make a contribution to SoGive - this is because our priority is on enabling funds to go to the charities rather than to ourselves.
+                                <br>
+                                SoGive does not charge charities for the service of receiving donations via SoGive. SoGive does not receive interest on funds donated before they get passed on to the charity. At the time of writing, it is not possible for a donor to opt to cover the payment processing charges; if you would find that of interest, please  <a href="mailto:sanjay@sogive.org?Subject=I%20want%20to%20cover%20payment%20processing%20fees">email
+                                us</a>.
+                            </p>
+                        </div>
+						<div class="col-md-12">
+                            <small>
+								Images (CC) various authors, some icons (CC) Freepik from flaticon.com. 
+                            </small>
+                        </div>
+                        <div class="col-md-12">
+                            <small>
+                                Last updated: 18 Jan 2018 16:24:11 GMT
+                            </small>
+                        </div>
                     </p>
                   </center>
                 </div>
