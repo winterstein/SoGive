@@ -1,0 +1,33 @@
+
+#main {
+	background-image: url("background.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: 0 0;
+	height:100vh;
+}
+.jumbotron {
+	background: transparent;
+}
+#emailform {
+	background: rgba(255,255,255,0.75);
+	border: 2px solid black;
+	padding: 20px;
+	border-radius: 1vmax;
+	min-height:35vh;
+}
+#emailform .form-control {
+	margin: 5px 0 10px 0;
+}
+.charity-logo {
+	padding:2px;
+	margin-left:1vmin;	
+	background: white;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	height: 70px;
+}
+.charity-logo img {
+	width: 90%;
+	max-height: 100%;
+}
