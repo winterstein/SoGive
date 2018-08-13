@@ -28,6 +28,8 @@
 	height: 70px;
 }
 .charity-logo img {
-	width: 90%;
-	max-height: 100%;
+	/* width: 90%; */
+	/* max-height: 100%; */
+	max-width: 90%;
+	height: 90%;
 }
