@@ -1,12 +1,17 @@
+bgclass: forwealthmanagers-bg
+headerimg: /img/landing/Bt-MyDonate-to-SoGive.png
+headline: SoGive: the free fund-raising platform
 
-# Do you use BT MyDonate?
+# Replacing BT MyDonate - without paying fees
+
+<center><img src='/img/landing/Bt-MyDonate-to-SoGive.png' class='' style='' title='' ></center>
 
 On Monday, BT MyDonate announced that it is *closing*. BT MyDonate is popular with charities and donors because unlike other platforms, it charges no fees.
-We at SoGive encourage all donors to move from BT MyDonate to SoGive, since SoGive also charges no fees. You can check us out directly on https://app.sogive.org, or read on for more.
+We at SoGive encourage all donors to move from BT MyDonate to SoGive, since SoGive also charges no fees. You can check us out directly on <https://app.sogive.org>, or read on for more.
 
 Currently the three main fundraising platforms are
 
- - JustGiving -- Takes 5% of the donation as well as charging the charity a monthly fee. Makes millions in profits.
+ - JustGiving -- Takes 5% of the donation as well as charging the charity a monthly fee. Millions in profits are diverted from the charities.
  - VirginMoney Giving -- takes 2% of the donation as well as charging the charity £150 up front.
  - BT MyDonate -- free (apart from a transaction charge). But sadly closing down.
 
@@ -20,8 +25,9 @@ We also provide more to engage and excite the donor, with a unique database whic
 
 The database can be used to help you to find the charities which have the most impact -- our data can tell you which charities give you the best bang for your buck. And we also know that some donors already have a relationship with a charity that they care about, in which case the search facility makes it easy for donors to find the charity they want to donate to.
 
-If you would like to use SoGive, simply head straight to the site https://app.sogive.org, find your chosen charity and get donating!
+To use SoGive, simply head straight to the site <https://app.sogive.org>, find your chosen charity and get donating!
 
-If you work for a charity and would like to use SoGive for fund-raising -- please get in touch by emailing [sanjay@sogive.org](mailto:sanjay@sogive.org).
+If you would like to use SoGive for fund-raising -- please get in touch by emailing [sanjay@sogive.org](mailto:sanjay@sogive.org), or use the contact  button below.
 
-Go to https://app.sogive.org
+Go to <https://app.sogive.org> or contact us:
+
