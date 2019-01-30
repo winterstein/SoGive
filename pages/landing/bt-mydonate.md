@@ -6,7 +6,7 @@ headline: SoGive: the free fund-raising platform
 
 <center><img src='/img/landing/Bt-MyDonate-to-SoGive.png' class='' style='' title='' ></center>
 
-On Monday, BT MyDonate announced that it is *closing*. BT MyDonate is popular with charities and donors because unlike other platforms, it charges no fees.
+In January of 2019, BT MyDonate announced that it is *closing*. BT MyDonate is popular with charities and donors because unlike other platforms, it charges no fees.
 We at SoGive encourage all donors to move from BT MyDonate to SoGive, since SoGive also charges no fees. You can check us out directly on <https://app.sogive.org>, or read on for more.
 
 Currently the three main fundraising platforms are
@@ -17,7 +17,7 @@ Currently the three main fundraising platforms are
 
 For your new charity donation platform, you still want a free service -- nobody wants charges forced upon them. But when services like BT MyDonate are dependent on the generosity of a single backer (such as BT) it is vulnerable to being turned off, disappointing many charities and donors in the process.
 
-SoGive is free, operating on a tip-based model. SoGive's online fundraising platform is free -- if a donor gives £10, SoGive doesn't take anything away from that £10, or charge any monthly fees to the charity. We offer the option to give us a tip if you like what you see. This also means we are not dependent on any one source of funding which can be suddenly turned off.
+SoGive is free, operating on a tip-based model. So if a donor gives £10, SoGive doesn't take anything away from that £10, or charge any monthly fees to the charity. We offer the option to give us a tip if you like what you see. This also means we are not dependent on any one source of funding which can be suddenly turned off.
 
 We at SoGive are all too aware of the importance of ensuring that every penny that can go to the charity does go to the charity. That's why we don't take any money from the charity being donated to -- we simply pass on the credit-card transaction fees of 1.4% + 20p (just like BT MyDonate).
 
