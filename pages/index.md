@@ -37,8 +37,7 @@ bgclass: home-bg
     Sign up to our mailing list for project updates: 
     </p>
     <center>
-    <form id='mailing-list' action='https://sogive.soda.sh/forms-form.json' class='form-inline'>
-      <input type='hidden' name='mlist' value='company-news,product-news,marketing'>
+	 <form id='mailing-list' action='https://profiler.good-loop.com/form/sogive.org' class='form-inline'>
       <div class='form-group'>
         <label class=''>Get email updates</label>       
         <input class='form-control' type='email' name='email' placeholder='Your Email'>
