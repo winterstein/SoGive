@@ -445,3 +445,15 @@ hr {
   width: 100%;
   height: auto;
 }
+
+.wedding-lead-line {
+  font-size: 36px;
+}
+
+.wedding-p {
+  text-align:justify;
+  color:#4f4f4f;
+  font-size:20px;
+  line-height: 24px;
+  margin-bottom: 20px;
+}

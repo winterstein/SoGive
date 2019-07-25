@@ -25,6 +25,40 @@
 <!-- <div class="white-bg" style="height:2em;">
 </div> -->
 <!-- End of cheap vertical space -->
+<!-- Modal -->
+<div class="modal fade" id="CTAModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="myModalLabel">Get Started With SoGive</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>						
+            </div>
+            <div class="modal-body">
+                <form class='CTA' action='https://profiler.good-loop.com/form/sogive.org/'>
+                    <input type='hidden' name='page' value='Forevents' />
+                    <input type='hidden' name='notify' value='daniel@sodash.com' />
+                    <div class="form-group">
+                        <label>Email</label>
+                        <input class='form-control' name='email' type='email' />
+                    </div>
+                    <div class="form-group">
+                        <label>Optional Message</label>
+                        <textarea class='form-control' name='message'></textarea>
+                    </div>
+                    <button type='submit' class='btn btn-primary'>Request a Demo</button>
+                </form>
+            </div>
+            <!--<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<button type="button" class="btn btn-primary">Save changes</button>
+</div>-->
+        </div>
+    </div>
+</div>
+<!-- ./modal -->
+
     
 <div class="simple-page page-part">
 	  <div class="charity-wedding-gifts-bg">
@@ -34,10 +68,10 @@
 					<a href="https://sogive.org">
 						<img class="logo" alt="SoGive" src="img/logo.png">
 					</a>
-					<p class="sogive-lead-line">
-						<i>Keep track of how you make the world a better place</i>
+					<p>
+						<i class="wedding-lead-line">Add charitable gifts to your wedding registry</i>
 					</p>
-					<a href="https://app.sogive.org/" class="btn-lg btn-getinvolved" id="getstartedbutton" target="_blank">Get Started</a>
+					<button class="btn btn-primary btn-lg btn-getinvolved CTA" data-toggle="modal" data-target="#CTAModal">Contact Us Today</a>
 				</div>
 			</div>
 			<div class="col-md-12 visible-xs visible-sm">
@@ -45,10 +79,10 @@
 					<a href="https://sogive.org">
 						<img class="logo-sm" alt="SoGive" src="img/logo.png">
 					</a>
-					<p class="sogive-lead-line">
-						<i>Keep track of how you make the world a better place</i>
+					<p>
+						<i class="wedding-lead-line">Add charitable gifts to your wedding registry</i>
 					</p>
-					<a href="https://app.sogive.org/" class="btn-lg btn-getinvolved" id="getstartedbutton" target="_blank">Get Started</a>
+					<button class="btn btn-primary btn-lg btn-getinvolved CTA" data-toggle="modal" data-target="#CTAModal">Contact Us Today</a>
 				</div>
 			</div>
 		</div> <!-- ./jumbotron -->
@@ -168,14 +202,14 @@
 <div class="row">
     <div class="col-md-12">
         <center>
-            <H2>Add charitable gifts to your wedding registry</H2>
+            <H2></H2>
         </center>
     </div>
 </div>
 <div class="row">
     <div class="col-md-12">
         <div class="col-md-offset-2 col-md-8">
-            <p style="text-align:justify; color:#777; font-size:14px;">
+            <p class="wedding-p">
                 Love can be a powerful thing. It fills the time around your wedding with kindness and generosity.
                 People spend hundreds on engagement parties, stag/hen nights, bridal showers and gift registries.
                 So, why not use the power of love to make a difference to those who need it most?
@@ -193,7 +227,6 @@
     <div class="col-md-12">
         <div class="col-md-offset-2 col-md-8">
             <center>
-                <a href="https://app.sogive.org/" class="btn-lg btn-getinvolved" id="getstartedbutton" target="_blank">Contact Us Today</a>
             </center>
         </div>
     </div>
@@ -207,18 +240,18 @@
     <div class="col-md-12">
         <div class="col-md-7">
             <div class="row">
-                <p style="text-align:justify; color:#777; font-size:14px;">
+                <p class="wedding-p">
                     SoGive is an online giving platform with a difference. We’ve built the largest database of charity
                     impact data, to help you find the right charity to support and to show you, your family and friends
                     the real impact your gifts have.
                 </p>
-                <p style="text-align:justify; color:#777; font-size:14px;">
+                <p class="wedding-p">
                     We’re 100% free – for you, and for the charities (apart from credit-card fees, there's nothing we can
                     do about those). Other platforms take 5% or have hidden fees – we only suggest donors leave a tip.
                 </p>
             </div>
             <div class="row">
-                <ul>
+                <ul class="wedding-p">
                     <li>
                         No limits on donations
                     </li>
@@ -250,7 +283,7 @@
 <div class="row">
     <div class="col-md-12">
         <center>
-            <a href="https://app.sogive.org/" class="btn-lg btn-getinvolved" id="getstartedbutton" target="_blank">Contact Us Today</a>
+            <button class="btn btn-primary btn-lg btn-getinvolved CTA" data-toggle="modal" data-target="#CTAModal">Contact Us Today</a>
         </center>
     </div>
 </div>
