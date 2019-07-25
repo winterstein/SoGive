@@ -2,5 +2,6 @@
 /bin/
 
 webroot/*.html
+! webroot/charity-wedding-gifts.html
 webroot/*.html
 webroot/sector/*.html
