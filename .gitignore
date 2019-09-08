@@ -4,3 +4,5 @@
 webroot/*.html
 !webroot/charity-wedding-gifts.html
 webroot/sector/*.html
+boblog
+bob.log
