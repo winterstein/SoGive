@@ -1,5 +1,6 @@
+bgclass: forcompanies-bg
+headline: SoGive Payroll Giving
 
-# SoGive Payroll Giving
 
 Payroll giving to charity is an easy way to boost loyalty, by supporting your staff 
 in giving to causes they care about. 
