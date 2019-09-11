@@ -31,7 +31,7 @@ Working with SoGive, you can easily setup donation and Corporate Social Responsi
 
 We support a range of charity schemes:
 
-* Payroll giving: A tax efficient way for your employees to give.
+* [Payroll giving](forpayrollgiving): A tax efficient way for your employees to give.
 * Matched-funding: The company boosts an employee's donations, building loyalty.
 * Charity gifts: The company provides employees with funding to give to charity.
 

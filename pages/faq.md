@@ -71,10 +71,7 @@ bgclass: faq-bg
 				<div class="col-md-12 hidden-sm hidden-xs" style="height:3em;">
 				</div>
 				<p class="font-18 black-font">
-					At the time of writing, we have not yet built the feature of allowing donors the option to make a contribution to SoGive - this is because our priority is on enabling funds to go to the charities rather than to ourselves.
-					<br>
-					SoGive does not charge charities for the service of receiving donations via SoGive. SoGive does not receive interest on funds donated before they get passed on to the charity. At the time of writing, it is not possible for a donor to opt to cover the payment processing charges; if you would find that of interest, please  <a href="mailto:sanjay@sogive.org?Subject=I%20want%20to%20cover%20payment%20processing%20fees">email
-					us</a>.
+					SoGive does not charge charities for the service of receiving donations via SoGive. SoGive does not receive interest on funds donated before they get passed on to the charity. We're not here to make money - we are a non-profit dedicated to positive impact.
 				</p>
 			</div>
 			<!-- Cheap vertical space, you can increase or decrease it by changing the em level-->
