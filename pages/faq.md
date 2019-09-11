@@ -45,13 +45,13 @@ bgclass: faq-bg
                         <tr>
                             <td>Fee (description)</td>
                             <td bgcolor="#D9EAD3">No fee</td>
-                            <td>2% of donation (excl Gift Aid)</td>
+                            <td>15% of donation (can opt-out)</td>
                             <td>5% of donation (incl Gift Aid)</td>
                         </tr>
                         <tr>
                             <td>Fee from giving platform</td>
                             <td bgcolor="#D9EAD3">£0.00</td>
-                            <td>£2.00</td>
+                            <td>£15.00</td>
                             <td>£6.25</td>
                         </tr>
                         <tr>
@@ -63,7 +63,7 @@ bgclass: faq-bg
                         <tr>
                             <td style="font-weight:bold">Total to charity</td>
                             <td style="font-weight:bold">£123.40</td>
-                            <td style="font-weight:bold">£121.55</td>
+                            <td style="font-weight:bold">£108.55</td>
                             <td style="font-weight:bold">£117.45</td>  
                         </tr>
                     </tbody>
