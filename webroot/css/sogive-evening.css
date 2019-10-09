@@ -56,6 +56,10 @@
   background: url('../img/hands-in-air.jpg') no-repeat center center;
 }
 
+.interview-coaching-bg {
+  background: url('../img/lighthouse.jpg') no-repeat center center;
+}
+
 .jumbotron {
   height: 40em;
   color: white;
