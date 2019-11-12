@@ -16,7 +16,10 @@ bgclass: faq-bg
 			</div>
 			<button class="accordion btn-lg black-font btn-accordion">How much do you charge?<span class="pull-right glyphicon glyphicon-plus"></span></button>
 			<div class="panel" id="#HowMuchDoYouCharge">
-				<p class="font-18 black-font" id="HowMuchDoYouChargeText">SoGive doesn't levy a charge, although we may offer our users the opportunity to make an optional donation to us if they like what they see.</p>
+				<p class="font-18 black-font" id="HowMuchDoYouChargeText">
+				There are no fees and we take no % for charity donations! SoGive is funded by volunteer and donor generosity. 
+				Fundraising is 100% free for users and charities.
+				Users can optionally send us a tip if they like what they see. Tips are opt-in - there's no pressure or presumption.</p>
 				<br>
 				<p class="text-muted">Here's an example:</p>
 				<br>
