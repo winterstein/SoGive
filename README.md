@@ -6,4 +6,4 @@ To edit the website contents, just edit the files in [/pages](https://github.com
 
 To edit the website design, edit the template.html files in [/webroot](https://github.com/winterstein/SoGive/tree/master/webroot), and place images and css in there too.
 
-NB: Also known as (because we tried a couple of names): The Charity Supermarket http://charitysupermarket.uk
+If you wish to build a copy of this website locally -- install [Jerbil]()
