@@ -301,7 +301,7 @@ div.panel.show {
 }
 
 .font-18 {
-  font-size: 18;
+  font-size: 18px;
 }
 
 ul {
@@ -460,4 +460,24 @@ hr {
   font-size:20px;
   line-height: 24px;
   margin-bottom: 20px;
+}
+
+.career-table {
+  padding: 2px;
+  border-spacing: 2px;
+  text-align: center;
+}
+
+table.career-table, th.career-table, tr.career-table, td.career-table {
+  border: 1px solid black;
+}
+
+
+.header-row {
+  background-color: rgb(7,55,99);
+  color: white;
+}
+
+.black-font {
+  color: black;
 }
