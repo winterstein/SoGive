@@ -404,7 +404,7 @@ bgclass: careers-bg
 							With the right combination of applicants, it may be possible for the role to be part-time. If you are interested in an opportunity like this, please state this in your covering letter
 						</li>
 						<li>
-							The salary for the full time role is &pound;25k-&pound;45k, depending on experience
+							The salary for the full time role is &pound;30k-&pound;50k, depending on experience
 						</li>
 						<li>
 							The role will initially be a 12-month contract, extendable depending on SoGive’s growth and performance over this period
