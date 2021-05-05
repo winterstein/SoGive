@@ -11,7 +11,7 @@ bgclass: careers-bg
 
 <div class="col-md-12">
 	<div class="col-md-offset-2 col-md-8">
-		<!-- <p class="text-muted">
+		<p class="text-muted">
 			<center>
 				We are currently not recruiting at this time
 			</center>
@@ -32,8 +32,8 @@ bgclass: careers-bg
 					End-User Design/UX
 				</li>
 			</ul>
-		</p> -->
-		<ul class="nav nav-tabs" role="tablist">
+		</p>
+		<!-- <ul class="nav nav-tabs" role="tablist">
 			<li role="presentation" class="active">
 				<a href="#Director" aria-controls="Director" role="tab" data-toggle="tab">Director</a>
 			</li>
@@ -433,6 +433,6 @@ bgclass: careers-bg
 		</div>
 		<p class="sogive-text-body">
 			If you are passionate about SoGive's work and think you may want to work with us, feel free to reach out to Sanjay: : <span class='email' name='sanjay' domain='sogive.org'>sanjay (at) sogive.org</span> to arrange a conversation.
-		</p>
+		</p> -->
 	</div>
 </div>
