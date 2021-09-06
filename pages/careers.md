@@ -11,6 +11,11 @@ bgclass: careers-bg
 
 <div class="col-md-12">
 	<div class="col-md-offset-2 col-md-8">
+		<!-- <p class="text-muted">
+			<center>
+				We are currently not recruiting at this time
+			</center>
+		</p> -->
 		<ul class="nav nav-tabs" role="tablist">
 			<li role="presentation" class="active">
 				<a href="#senior-dev--team-lead" aria-controls="senior-dev--team-lead" role="tab" data-toggle="tab">Senior Dev / Team Lead</a>
