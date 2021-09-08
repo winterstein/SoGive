@@ -32,7 +32,8 @@ bgclass: privacy-bg
 					Our staff all sign non-disclosure agreements
 				</li>
 				<li>
-					You can delete your data from our systems (unless we are required to keep it by law or for audit purposes)
+					You can delete your data from our systems (unless we are required to keep it by law or for audit purposes).
+					To request deletion of your data from our systems, email <span class="email" name='support" domain='sogive.org?subject="Request for user data deletion"'>support at sogive.org</span> with the subject "Request for user data deletion".
 				</li>
 			</ul>
 			<br>
@@ -54,8 +55,11 @@ bgclass: privacy-bg
 					If you submit content to a public part of the site then you grant us an open licence to use, reproduce, adapt and publish that content. An example would be posting a public comment on a blog we host. This does not affect private content, which remains private
 				</li>
 				<li>
-					SoGrow will ask you to authorise access to sites such as Twitter using a secure system called OAuth. This means you don't have to give us your password. You can revoke OAuth access at any point. E.g. for Twitter, you do that at http://twitter.com/account/connections
+					SoGive will ask you to authorise access to sites such as Twitter using a secure system called OAuth. This means you don't have to give us your password. You can revoke OAuth access at any point. E.g. for Twitter, you do that at http://twitter.com/account/connections
 				</li>
+				<li>
+	If you link your Facebook or Twitter account to SoGive, we will only use that authorisation to log you in to your SoGive account, and will not retrieve, store or process any other information about you.
+</li>
 			</ul>
 		</p>
 	</div>
