@@ -33,7 +33,7 @@ bgclass: privacy-bg
 				</li>
 				<li>
 					You can delete your data from our systems (unless we are required to keep it by law or for audit purposes).
-					To request deletion of your data from our systems, email <span class="email" name='support" domain='sogive.org?subject="Request for user data deletion"'>support at sogive.org</span> with the subject "Request for user data deletion".
+					To request deletion of your data from our systems, email <span class="email" name='support' domain='sogive.org?subject="Request for user data deletion"'>support at sogive.org</span> with the subject "Request for user data deletion".
 				</li>
 			</ul>
 			<br>
