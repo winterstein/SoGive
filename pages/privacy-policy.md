@@ -8,7 +8,7 @@ bgclass: privacy-bg
 		<H2>Privacy Policy</H2>
 		<br>
 		<p class="text-muted">
-			Version 1.0
+			Version 1.1
 		</p>
 	</center>
 </div>
@@ -33,7 +33,7 @@ bgclass: privacy-bg
 				</li>
 				<li>
 					You can delete your data from our systems (unless we are required to keep it by law or for audit purposes).
-					To request deletion of your data from our systems, email <span class="email" name='support' domain='sogive.org?subject="Request for user data deletion"'>support at sogive.org</span> with the subject "Request for user data deletion".
+					To request deletion of your data from our systems, email <span class="email" name='support' domain='sogive.org' subject="Request for user data deletion">support at sogive.org</span> with the subject "Request for user data deletion".
 				</li>
 			</ul>
 			<br>
