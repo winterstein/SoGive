@@ -1,5 +1,7 @@
 bgclass: home-bg
 
+<!-- HACK: redirect to new design TODO do this via DNS instead -->
+<script>window.location="https://app.sogive.org";</script>
 <div class="home-bg">
 </div>
 
